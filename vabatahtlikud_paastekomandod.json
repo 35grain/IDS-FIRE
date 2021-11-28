@@ -1,2207 +1,2205 @@
-{
-    "features": [{
-        "geometry": {
-            "x": 2971487.9,
-            "y": 8277586.26,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Aasukalda",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Maarja 7, Viru-Nigula alevik, Viru-Nigula v, 44001",
-            "Lisainfo": "https://www.aasukalda.eu/\n\nhttps://www.facebook.com/Aasukalda-Maa-ja-Merep%C3%A4%C3%A4stekomando-483756561739162/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.44678,
-            "E": 26.69333,
-            "__OBJECTID": 0
-        }
-    }, {
-        "geometry": {
-            "x": 3041000.25,
-            "y": 8198317.7,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Iisaku",
-            "Piirkond": "Ida-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Tartu mnt 65, Iisaku alevik, Alutaguse v, 41101",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.08286,
-            "E": 27.31777,
-            "__OBJECTID": 1,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 3085494.65,
-            "y": 8188795.1,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Jaama",
-            "Piirkond": "Ida-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Jaama k, Alutaguse v, 41204",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.03888,
-            "E": 27.71747,
-            "__OBJECTID": 2,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2909467.36,
-            "y": 8254366.27,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kadrina",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Pargi 3, Kadrina alevik, Kadrina v, 45201",
-            "Lisainfo": "https://www.facebook.com/kadrinavpk/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.34058,
-            "E": 26.13619,
-            "__OBJECTID": 3
-        }
-    }, {
-        "geometry": {
-            "x": 3038306.31,
-            "y": 8228514.22,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Mäetaguse",
-            "Piirkond": "Ida-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Kooli 17, Mäetaguse alevik, Alutaguse v, 41301",
-            "Lisainfo": "https://www.facebook.com/M%C3%A4etaguse-Vabatahtlik-P%C3%A4%C3%A4stekomando-262220920638142/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.22195,
-            "E": 27.29357,
-            "__OBJECTID": 4
-        }
-    }, {
-        "geometry": {
-            "x": 3006925.35,
-            "y": 8271678.16,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Purtse",
-            "Piirkond": "Ida-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Lossiaida, Purtse k, Lüganuse v, 43302",
-            "Lisainfo": "http://purtserescue.blogspot.com/\n\nhttps://www.facebook.com/Purtse-Vabatahtlik-P%C3%A4%C3%A4steVolunteer-Firefighting-295202610490226/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.41979,
-            "E": 27.01167,
-            "__OBJECTID": 5
-        }
-    }, {
-        "geometry": {
-            "x": 2987863,
-            "y": 8275326.66,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Rannu",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Töökoja, Rannu k, Viru-Nigula v, 43408",
-            "Lisainfo": "https://www.facebook.com/rannuvabatahtlik.paaste",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.43646,
-            "E": 26.84043,
-            "__OBJECTID": 6
-        }
-    }, {
-        "geometry": {
-            "x": 2961512.56,
-            "y": 8217901.39,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Roela",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Veski 8, Roela alevik, Vinni v, 46602",
-            "Lisainfo": "https://www.facebook.com/roelavabatahtlikkomando/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.17313,
-            "E": 26.60372,
-            "__OBJECTID": 7
-        }
-    }, {
-        "geometry": {
-            "x": 2938718.78,
-            "y": 8190262.32,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Simuna",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Pargi 2, Simuna alevik, Väike-Maarja v, 46401",
-            "Lisainfo": "https://www.facebook.com/simunavts/\n\nhttps://simunavts.wordpress.com/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.04566,
-            "E": 26.39896,
-            "__OBJECTID": 8
-        }
-    }, {
-        "geometry": {
-            "x": 2732057.49,
-            "y": 8272947.38,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Tabasalu",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Ranna tee 4, Tabasalu alevik, Harku v, 76901",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.42559,
-            "E": 24.54249,
-            "__OBJECTID": 9,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2906018.68,
-            "y": 8216248.44,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Tamsalu",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Tehnika tn 2a, Tamsalu linn, Tapa v, 46107",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.16552,
-            "E": 26.10521,
-            "__OBJECTID": 10,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2989146.51,
-            "y": 8219044.11,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Tudu",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Allikvee 4, Tudu alevik, Vinni v, 46606",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.17839,
-            "E": 26.85196,
-            "__OBJECTID": 11,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2894513.81,
-            "y": 8203489.01,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Vajangu",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Tamsalu mnt 24, Vajangu k,  Tapa v, 46002",
-            "Lisainfo": "https://www.facebook.com/Vajangu-Tulet%C3%B5rje%C3%BChing-1934541170166044/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.10672,
-            "E": 26.00186,
-            "__OBJECTID": 12
-        }
-    }, {
-        "geometry": {
-            "x": 2890189.05,
-            "y": 8306667.84,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Võsu",
-            "Piirkond": "Lääne-Virumaa",
-            "Struktuuriüksus": "IPK",
-            "Aadress": "Sadama 2, Võsu alevik, Haljala v, 45501",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.57932,
-            "E": 25.96301,
-            "__OBJECTID": 13,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2505648.71,
-            "y": 8001866.98,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Abruka",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Abruka k, Saaremaa v, 93826",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.1640899,
-            "E": 22.5086253,
-            "__OBJECTID": 14,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2734505.41,
-            "y": 8076298.6,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Are",
-            "Piirkond": "Pärnumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Karja tee, Are alevik, Tori v, 87301",
-            "Lisainfo": "https://www.facebook.com/aretuletorje.vabatahtlik",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.51504,
-            "E": 24.56448,
-            "__OBJECTID": 15
-        }
-    }, {
-        "geometry": {
-            "x": 2515654.63,
-            "y": 8116473.11,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Emmaste",
-            "Piirkond": "Hiiumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Emmaste k, Hiiumaa v, 92001",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.70302,
-            "E": 22.59851,
-            "__OBJECTID": 16,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2868184.31,
-            "y": 8123965.32,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Imavere",
-            "Piirkond": "Järvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kadastiku tee 1, Imavere k, Järva v, 72401",
-            "Lisainfo": "https://www.facebook.com/imaverevabatahtlikud/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.737965,
-            "E": 25.765338,
-            "__OBJECTID": 17
-        }
-    }, {
-        "geometry": {
-            "x": 2880856.03,
-            "y": 8188444.56,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Järva-Jaani",
-            "Piirkond": "Järvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Pikk 35, Järva-Jaani alevik, Järva v, 73301",
-            "Lisainfo": "http://www.jjts.ee/\n\nhttps://www.facebook.com/profile.php?id=147216365821538&ref=content_filter",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.03726,
-            "E": 25.87917,
-            "__OBJECTID": 18
-        }
-    }, {
-        "geometry": {
-            "x": 2853871.07,
-            "y": 8114626.13,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kabala",
-            "Piirkond": "Järvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kabala k, Türi v, 72001",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.6944,
-            "E": 25.63676,
-            "__OBJECTID": 19,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2788774.77,
-            "y": 8183934.56,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kaiu",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kasvandu tee 5d, Kaiu alevik, Rapla v, 79301",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.01641,
-            "E": 25.05199,
-            "__OBJECTID": 20,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2438156.22,
-            "y": 8023641.69,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Karala",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Karala k, Saaremaa v, 93325",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.26712,
-            "E": 21.90233,
-            "__OBJECTID": 21,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2768748.39,
-            "y": 8164696.66,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kehtna",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Staadioni 13a, Kehtna alevik, Kehtna v, 79001",
-            "Lisainfo": "https://www.facebook.com/profile.php?id=431479087275640&ref=content_filter",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.92733,
-            "E": 24.87209,
-            "__OBJECTID": 22
-        }
-    }, {
-        "geometry": {
-            "x": 2607455.36,
-            "y": 8102644.76,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kesselaiu",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kesse k, Muhu v, 94720",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.63843,
-            "E": 23.42317,
-            "__OBJECTID": 23,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2656598.46,
-            "y": 8155723.17,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kirna",
-            "Piirkond": "Läänemaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Madise talu, Väike-Lähtru küla, Lääne-Nigula v, 90636",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.8857,
-            "E": 23.86463,
-            "__OBJECTID": 24,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2688518.21,
-            "y": 8090277.89,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Koonga",
-            "Piirkond": "Pärnumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Valla, Koonga k, Lääneranna v, 88401",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.580565,
-            "E": 24.15137,
-            "__OBJECTID": 25,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2795730.01,
-            "y": 8190693.01,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kuimetsa",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kuimetsa k, Rapla v, 79302",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.04765,
-            "E": 25.11447,
-            "__OBJECTID": 26,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2630648.77,
-            "y": 8099353.62,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kõmsi",
-            "Piirkond": "Pärnumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kõmsi k, Lääneranna v, 90102",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.62304,
-            "E": 23.63152,
-            "__OBJECTID": 27,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2500970.47,
-            "y": 8176238.19,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kõrgessaare",
-            "Piirkond": "Hiiumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Tööstuse tee 27b, Kõrgessaare alevik, Hiiumaa v, 92201",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.9808,
-            "E": 22.4666,
-            "__OBJECTID": 28,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2573410.29,
-            "y": 8073689.33,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kõrkvere",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Katlamaja, Tornimäe k, Saaremaa v, 94501",
-            "Lisainfo": "https://www.facebook.com/groups/152123131998197/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.502796,
-            "E": 23.117338,
-            "__OBJECTID": 29
-        }
-    }, {
-        "geometry": {
-            "x": 2799793.84,
-            "y": 8144692.82,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Käru",
-            "Piirkond": "Järvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Lao 35, Käru alevik, Türi v, 79201",
-            "Lisainfo": "https://www.facebook.com/MT%C3%9C-K%C3%A4ru-Tulet%C3%B5rje-Selts-1531538333584250/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.834459,
-            "E": 25.150976,
-            "__OBJECTID": 30
-        }
-    }, {
-        "geometry": {
-            "x": 2690380.59,
-            "y": 8162878.67,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Laukna",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Laukna k, Märjamaa v, 78101",
-            "Lisainfo": "https://www.facebook.com/mtulauknapritsumeesteselts/\nhttps://lauknapritsumeesteselts.ee/index.php/et/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.9189,
-            "E": 24.1681,
-            "__OBJECTID": 31
-        }
-    }, {
-        "geometry": {
-            "x": 2525256.82,
-            "y": 8087701.09,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Leisi",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kuressaare mnt 12, Leisi alevik, Saaremaa v, 94202",
-            "Lisainfo": "https://www.facebook.com/LeisiVPK\nhttp://vpk.leisi.ee/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.568496,
-            "E": 22.684768,
-            "__OBJECTID": 32
-        }
-    }, {
-        "geometry": {
-            "x": 2753347.34,
-            "y": 8159800.1,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Lipa",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Lipa k, Rapla v, 78405",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.90462,
-            "E": 24.73374,
-            "__OBJECTID": 33,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2774293.22,
-            "y": 8136731.95,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Lokuta",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Lokuta k, Kehtna v, 79006",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.79743,
-            "E": 24.9219,
-            "__OBJECTID": 34,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2581904.19,
-            "y": 8094412.15,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Muhu",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Piiri k, Muhu v, 94730",
-            "Lisainfo": "https://www.facebook.com/MuhuVPK/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.59992,
-            "E": 23.19364,
-            "__OBJECTID": 35
-        }
-    }, {
-        "geometry": {
-            "x": 2475059.97,
-            "y": 8064206.09,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Mustjala",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Mustjala k, Saaremaa v, 93601",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.45826,
-            "E": 22.233842,
-            "__OBJECTID": 36,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2637912.37,
-            "y": 8228211.85,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Nõva",
-            "Piirkond": "Läänemaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Nõva k, Lääne-Nigula v, 91101",
-            "Lisainfo": "https://www.facebook.com/novakomando/?ref=page_internal&mt_nav=0",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.22056,
-            "E": 23.69677,
-            "__OBJECTID": 37
-        }
-    }, {
-        "geometry": {
-            "x": 2846188.91,
-            "y": 8128599.06,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Oisu",
-            "Piirkond": "Järvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Oisu alevik, Türi v, 72301",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.75956,
-            "E": 25.56775,
-            "__OBJECTID": 38,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2659039.7,
-            "y": 8173799.74,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Palivere",
-            "Piirkond": "Läänemaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Palivere alevik, Lääne-Nigula v, 90802",
-            "Lisainfo": "https://www.facebook.com/profile.php?id=293499827935252&ref=content_filter",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.96951,
-            "E": 23.88656,
-            "__OBJECTID": 39
-        }
-    }, {
-        "geometry": {
-            "x": 2527845.22,
-            "y": 8031031.92,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Pihtla",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Pihtla k, Saaremaa v, 94101",
-            "Lisainfo": "https://www.facebook.com/Pihtla-Vabatahtlik-P%C3%A4%C3%A4stekomando-1479766425602664/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.30202,
-            "E": 22.70802,
-            "__OBJECTID": 40
-        }
-    }, {
-        "geometry": {
-            "x": 2727427.71,
-            "y": 8096405.87,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Pärnu-Jaagupi",
-            "Piirkond": "Pärnumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kooli 4, Pärnu-Jaagupi alev,  Põhja-Pärnumaa v, 87201",
-            "Lisainfo": "https://www.facebook.com/pjts4/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.60925,
-            "E": 24.5009,
-            "__OBJECTID": 41
-        }
-    }, {
-        "geometry": {
-            "x": 2618789.91,
-            "y": 8181629.79,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Pürksi",
-            "Piirkond": "Läänemaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Pürksi k, Lääne-Nigula v, 91201",
-            "Lisainfo": "http://www.tuletorje.ee/\n\nhttps://www.facebook.com/profile.php?id=169085753127263&ref=content_filter",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.00575,
-            "E": 23.52499,
-            "__OBJECTID": 42
-        }
-    }, {
-        "geometry": {
-            "x": 2629315.17,
-            "y": 8151631.25,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Ridala",
-            "Piirkond": "Läänemaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Parila k, Haapsalu linn, 90418",
-            "Lisainfo": "https://www.facebook.com/ridalapritsumehed/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.8667,
-            "E": 23.61954,
-            "__OBJECTID": 43
-        }
-    }, {
-        "geometry": {
-            "x": 2587782.98,
-            "y": 7925011.17,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Ruhnu",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Ruhnu k, Ruhnu v, 93001",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 57.79804,
-            "E": 23.24645,
-            "__OBJECTID": 44,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2477101.35,
-            "y": 8001634.87,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Salme",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Salme alevik, Saaremaa v, 93201",
-            "Lisainfo": "https://www.facebook.com/salmevpk/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.16299,
-            "E": 22.25218,
-            "__OBJECTID": 45
-        }
-    }, {
-        "geometry": {
-            "x": 2744822.5,
-            "y": 8052910.72,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Sindi",
-            "Piirkond": "Pärnumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kooli 9a, Sindi linn, Tori v, 86703",
-            "Lisainfo": "https://www.facebook.com/sindituleselts",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.40514,
-            "E": 24.65716,
-            "__OBJECTID": 46
-        }
-    }, {
-        "geometry": {
-            "x": 2878126.47,
-            "y": 8149624.87,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Sõrandu",
-            "Piirkond": "Järvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Sõrandu k, Järva v, 72508",
-            "Lisainfo": "https://www.facebook.com/profile.php?id=292626854086097&ref=content_filter",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.85738,
-            "E": 25.85465,
-            "__OBJECTID": 47
-        }
-    }, {
-        "geometry": {
-            "x": 2756714.76,
-            "y": 8062050.75,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Taali",
-            "Piirkond": "Pärnumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Taali k, Tori v, 86818",
-            "Lisainfo": "https://www.facebook.com/Taali-Vabatahtlik-P%C3%A4%C3%A4ste-499036210184667/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.44813,
-            "E": 24.76399,
-            "__OBJECTID": 48
-        }
-    }, {
-        "geometry": {
-            "x": 2549761.8,
-            "y": 8076091.86,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Tagavere",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kareda k, Saaremaa v, 94625",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.51407,
-            "E": 22.9049,
-            "__OBJECTID": 49,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2757536.29,
-            "y": 7982274.59,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Tali",
-            "Piirkond": "Pärnumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Tali k, Saarde v, 86101",
-            "Lisainfo": "https://www.facebook.com/Saardepritsumehed/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.07113,
-            "E": 24.77137,
-            "__OBJECTID": 50
-        }
-    }, {
-        "geometry": {
-            "x": 2457781.85,
-            "y": 7962653.35,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Torgu",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Iide k, Saaremaa v, 93101",
-            "Lisainfo": "https://turvalinesorve.weebly.com/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.97779,
-            "E": 22.07863,
-            "__OBJECTID": 51
-        }
-    }, {
-        "geometry": {
-            "x": 2812378.95,
-            "y": 8169762.63,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Vahastu",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Vahastu k, Rapla v, 79303",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.95081,
-            "E": 25.26403,
-            "__OBJECTID": 52,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2737011.21,
-            "y": 8141480.06,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Valgu",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Valgu k, Märjamaa v, 78204",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.81952,
-            "E": 24.58699,
-            "__OBJECTID": 53,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2537401.11,
-            "y": 8053468.28,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Valjala",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Posti 18, Valjala alevik, Saaremaa v, 94302",
-            "Lisainfo": "https://www.facebook.com/ValjalaVPK",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.407764,
-            "E": 22.793862,
-            "__OBJECTID": 54
-        }
-    }, {
-        "geometry": {
-            "x": 2699995.03,
-            "y": 8130792.37,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Vana-Vigala",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Hirvepargi tee 27, Vana-Vigala k, Märjamaa v, 78003",
-            "Lisainfo": "http://ligimesekaitseks.ee/komandod/vana-vigala/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.769777,
-            "E": 24.254468,
-            "__OBJECTID": 55
-        }
-    }, {
-        "geometry": {
-            "x": 2724786.1,
-            "y": 8199990.51,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Varbola",
-            "Piirkond": "Raplamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Käbiküla, Märjamaa v, 78230",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.09058,
-            "E": 24.47717,
-            "__OBJECTID": 56,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2640552.98,
-            "y": 8085686.43,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Vatla",
-            "Piirkond": "Pärnumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Vatla k, Lääneranna v, 90103",
-            "Lisainfo": "https://www.facebook.com/Vatla-VPK-1274498849256990/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.559057,
-            "E": 23.720491,
-            "__OBJECTID": 57
-        }
-    }, {
-        "geometry": {
-            "x": 2431175.49,
-            "y": 8047222.49,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Vilsandi",
-            "Piirkond": "Saaremaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Koolinuka, Vilsandi küla,  Saaremaa v, 93421",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.378359,
-            "E": 21.839621,
-            "__OBJECTID": 58,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2588093.56,
-            "y": 8178253.04,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Vormsi",
-            "Piirkond": "Läänemaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Hullo küla, Vormsi v, 91301",
-            "Lisainfo": "https://www.facebook.com/Vormsi-Merep%C3%A4%C3%A4ste-Selts-Vormsi-SAR-1424267534545353/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.990126,
-            "E": 23.24924,
-            "__OBJECTID": 59
-        }
-    }, {
-        "geometry": {
-            "x": 2831691.77,
-            "y": 8158599.63,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Väätsa",
-            "Piirkond": "Järvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Aasuvälja k, Türi v, 72807",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.89905,
-            "E": 25.43752,
-            "__OBJECTID": 60,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2989017.38,
-            "y": 8178119.94,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Avinurme",
-            "Piirkond": "Jõgevamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Tööstuse 1, Avinurme alevik, Mustvee v, 42101",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.98951,
-            "E": 26.8508,
-            "__OBJECTID": 61,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2843488.3,
-            "y": 7989487.24,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Karksi-Nuia",
-            "Piirkond": "Viljandimaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Pärnu mnt 10, Karksi-Nuia, Mulgi v, 69103",
-            "Lisainfo": "https://www.facebook.com/KarksiNuiaTulekaitseSelts/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.10538,
-            "E": 25.54349,
-            "__OBJECTID": 62
-        }
-    }, {
-        "geometry": {
-            "x": 2927937.49,
-            "y": 7916224.04,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Karula",
-            "Piirkond": "Valgamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Karula k, Valga v, 68106",
-            "Lisainfo": "https://www.facebook.com/karulavabatahtlikud/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.75595,
-            "E": 26.30211,
-            "__OBJECTID": 63
-        }
-    }, {
-        "geometry": {
-            "x": 2887973.79,
-            "y": 8080353.69,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kolga-Jaani",
-            "Piirkond": "Viljandimaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Viljandi mnt 6, Kolga-Jaani alevik, Viljandi v, 70301",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.53406,
-            "E": 25.94311,
-            "__OBJECTID": 64,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2817253.64,
-            "y": 8036336.63,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kõpu",
-            "Piirkond": "Viljandimaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Viljandi mnt 8, Kõpu alevik,  Põhja-Sakala v, 71201",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.32705,
-            "E": 25.30782,
-            "__OBJECTID": 65,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2937552.16,
-            "y": 8070531.03,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Laeva",
-            "Piirkond": "Tartumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Laeva k, Tartu v, 60608",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.48797,
-            "E": 26.38848,
-            "__OBJECTID": 66,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 3025878.61,
-            "y": 7938685.09,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Lasva",
-            "Piirkond": "Võrumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Lasva k,  Võru v, 65401",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.86344,
-            "E": 27.18193,
-            "__OBJECTID": 67,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 3005735.9,
-            "y": 8164110.02,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Lohusuu",
-            "Piirkond": "Jõgevamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Otsara, Tammispää k, Mustvee v, 42006",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.92461,
-            "E": 27.000985,
-            "__OBJECTID": 68,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 3057977.58,
-            "y": 7914427.79,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Meremäe",
-            "Piirkond": "Võrumaa",
-            "Struktuuriüksus": "LÕPK",
-            "Aadress": "Meremäe k, Setomaa v 65302",
-            "Lisainfo": "https://www.facebook.com/mtumvp.ee/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.74734,
-            "E": 27.47028,
-            "__OBJECTID": 69
-        }
-    }, {
-        "geometry": {
-            "x": 3030845.68,
-            "y": 7884278.84,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Misso",
-            "Piirkond": "Võrumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Misso pritsumaja, Misso alevik, Rõuge v, 65001",
-            "Lisainfo": "https://www.facebook.com/misso.vabatahtlikud",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.60252,
-            "E": 27.22655,
-            "__OBJECTID": 70
-        }
-    }, {
-        "geometry": {
-            "x": 2803584.72,
-            "y": 7986845.66,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Mõisaküla",
-            "Piirkond": "Viljandimaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "J Sihveri 5, Mõisaküla, Mulgi v, 69302",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.09284,
-            "E": 25.18503,
-            "__OBJECTID": 71,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 3056198.7,
-            "y": 7943744.87,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Orava",
-            "Piirkond": "Võrumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Orava k, Võru v 64101",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.88761,
-            "E": 27.4543,
-            "__OBJECTID": 72,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 3009678.28,
-            "y": 8110528.85,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Pala",
-            "Piirkond": "Tartumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Pala k, Peipsiääre v 49426",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.67527,
-            "E": 27.0364,
-            "__OBJECTID": 73,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2959351.85,
-            "y": 8113047.35,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Palamuse",
-            "Piirkond": "Jõgevamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "O. Lutsu 5a, Palamuse alevik,  Jõgeva v,  49226",
-            "Lisainfo": "https://www.facebook.com/PalamuseVabatahtlikudPaastjad/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 58.68703,
-            "E": 26.58431,
-            "__OBJECTID": 74
-        }
-    }, {
-        "geometry": {
-            "x": 3063699.4,
-            "y": 8047326.74,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Piirissaare",
-            "Piirkond": "Tartumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Tooni k, Tartu v, 62603",
-            "Lisainfo": "https://www.facebook.com/Piirissaare-Vabatahtlik-Tulet%C3%B5rje-Selts-1579869775573220/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.37885,
-            "E": 27.52168,
-            "__OBJECTID": 75
-        }
-    }, {
-        "geometry": {
-            "x": 2919746.6,
-            "y": 7979256.81,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Puka",
-            "Piirkond": "Valgamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kesk 47, Puka, Otepää v, 67217",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 58.05679,
-            "E": 26.22853,
-            "__OBJECTID": 76,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2926344.51,
-            "y": 8089582.85,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Puurmani",
-            "Piirkond": "Jõgevamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Tallinna mnt 6/1, Puurmani alevik, Põltsamaa v, 49014",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.57731,
-            "E": 26.2878,
-            "__OBJECTID": 77,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2992341.38,
-            "y": 7963394.47,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Põlgaste",
-            "Piirkond": "Põlvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Põlgaste keskus 9, Põlgaste k, Kanepi v, 63123",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.98132,
-            "E": 26.88066,
-            "__OBJECTID": 78,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2921704.71,
-            "y": 7997818.3,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Rõngu",
-            "Piirkond": "Tartumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Puiestee põik 2a, Rõngu alevik, Elva v, 61001",
-            "Lisainfo": "https://www.facebook.com/R%C3%B5ngu-Vabatahtlik-P%C3%A4%C3%A4steselts-183704138722954/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 58.1449,
-            "E": 26.24612,
-            "__OBJECTID": 79
-        }
-    }, {
-        "geometry": {
-            "x": 2994817.13,
-            "y": 7910536.34,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Rõuge",
-            "Piirkond": "Võrumaa",
-            "Struktuuriüksus": "LÕPK",
-            "Aadress": "Tehnika 12, Handimiku k, Rõuge v, 66213",
-            "Lisainfo": "https://www.facebook.com/R%C3%B5uge-Priitahtlikud-Pritsimehed-131979127477421/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.72868,
-            "E": 26.9029,
-            "__OBJECTID": 80
-        }
-    }, {
-        "geometry": {
-            "x": 2929022.86,
-            "y": 7953467.85,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Sangaste",
-            "Piirkond": "Valgamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Tiidu k, Otepää v,  67010",
-            "Lisainfo": "https://www.facebook.com/groups/203964292959754/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 57.93401,
-            "E": 26.31186,
-            "__OBJECTID": 81
-        }
-    }, {
-        "geometry": {
-            "x": 3018528.18,
-            "y": 7901124.67,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Suhka",
-            "Piirkond": "Võrumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Mäe-Suhka k, Rõuge v, 65128",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.68351,
-            "E": 27.1159,
-            "__OBJECTID": 82,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2972224.84,
-            "y": 7917137.98,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Tsooru",
-            "Piirkond": "Võrumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Luhametsa k, Antsla v, 66403",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 57.76033,
-            "E": 26.69995,
-            "__OBJECTID": 83,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2973124.3,
-            "y": 8035372.05,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Tõrvandi",
-            "Piirkond": "Tartumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Papli 4, Tõrvandi alevik, Kambja v, 61715",
-            "Lisainfo": "https://www.facebook.com/torvandipaasteselts/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 58.3225,
-            "E": 26.70803,
-            "__OBJECTID": 84
-        }
-    }, {
-        "geometry": {
-            "x": 2967808.79,
-            "y": 7986306.5,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Valgjärve",
-            "Piirkond": "Põlvamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Valgjärve k, Kanepi v, 63419",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.09028,
-            "E": 26.66028,
-            "__OBJECTID": 85,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2976984.86,
-            "y": 8120031.21,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Voore",
-            "Piirkond": "Jõgevamaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Voore k, Mustvee v,  49324",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.71962,
-            "E": 26.74271,
-            "__OBJECTID": 86,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 3011036.38,
-            "y": 8027174.96,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Võnnu",
-            "Piirkond": "Tartumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Tartu 24, Võnnu alevik, Kastre v, 62401",
-            "Lisainfo": "https://www.facebook.com/VonnuVabatahtlikPaaste/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 58.28381,
-            "E": 27.0486,
-            "__OBJECTID": 87
-        }
-    }, {
-        "geometry": {
-            "x": 2952833.76,
-            "y": 8024606.03,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Nõo",
-            "Piirkond": "Tartumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Voika tn 12, Nõo alevik, Nõo vald, 61601",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.271676,
-            "E": 26.525757,
-            "__OBJECTID": 88,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2971427.79,
-            "y": 8017413.29,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kambja",
-            "Piirkond": "Tartumaa",
-            "Struktuuriüksus": "LÄPK",
-            "Aadress": "Kesk 2A, Kambja alevik, Kambja v, 62034",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 58.23768,
-            "E": 26.69279,
-            "__OBJECTID": 89,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2755897,
-            "y": 8305133.01,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Aegna",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Tagamaa tee 1, Aegna saar, Tallinn",
-            "Lisainfo": "https://www.facebook.com/www.rpr.ee/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.572338,
-            "E": 24.756644,
-            "__OBJECTID": 90
-        }
-    }, {
-        "geometry": {
-            "x": 2850380.09,
-            "y": 8243363.29,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Aegviidu",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Side 1a, Aegviidu alev, Anija v, 74501",
-            "Lisainfo": "https://www.facebook.com/Aegviidu-P%C3%A4%C3%A4steselts-MT%C3%9C-538739853124173/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.29014,
-            "E": 25.6054,
-            "__OBJECTID": 91
-        }
-    }, {
-        "geometry": {
-            "x": 2800275.19,
-            "y": 8202526.43,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Alansi",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Habaja alevik, Kose v, 75002",
-            "Lisainfo": "https://www.facebook.com/Alansi-Vabatahtlik-P%C3%A4%C3%A4steselts-Alansi-Volunteer-Rescue-Department-634572103258084/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.10228,
-            "E": 25.1553,
-            "__OBJECTID": 92
-        }
-    }, {
-        "geometry": {
-            "x": 2822603.65,
-            "y": 8201856.61,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Ardu",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Ardu katlamaja, Ardu alevik,  Kose v, 75001",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.09919,
-            "E": 25.35588,
-            "__OBJECTID": 93,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2791710.27,
-            "y": 8259159.54,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Aruküla",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Sügise 2a, Aruküla alevik, Raasiku v, 75201",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.36253,
-            "E": 25.07836,
-            "__OBJECTID": 94,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2731488.65,
-            "y": 8262552.74,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Hüüru",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Jõe tee 5, Hüüru k, Saue v, 76911",
-            "Lisainfo": "https://www.facebook.com/H%C3%BC%C3%BCru-Vabatahtlik-P%C3%A4%C3%A4stekomando-135370570354487/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.37806,
-            "E": 24.53738,
-            "__OBJECTID": 95
-        }
-    }, {
-        "geometry": {
-            "x": 2813563.39,
-            "y": 8293119.96,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kaberneeme",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Kaberneeme põik 2, Kaberneeme k, Jõelähtme v, 74211",
-            "Lisainfo": "https://www.facebook.com/kaberneemevpk/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.51764,
-            "E": 25.27467,
-            "__OBJECTID": 96
-        }
-    }, {
-        "geometry": {
-            "x": 2702479.9,
-            "y": 8227800.72,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kibuna",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Kibuna k, Saue v, 76313",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.21867,
-            "E": 24.27679,
-            "__OBJECTID": 97,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2851674.74,
-            "y": 8286787.24,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kolga",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Kolga alevik, Kuusalu v, 74602",
-            "Lisainfo": "https://www.facebook.com/kolga.vabatahtliktuletorjeuhing",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.48877,
-            "E": 25.61703,
-            "__OBJECTID": 98
-        }
-    }, {
-        "geometry": {
-            "x": 2793817.54,
-            "y": 8273238.46,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kostivere",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Mõisa tee 2, Kostivere alevik, Jõelähtme v, 74204",
-            "Lisainfo": "https://www.facebook.com/mtykts/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.42692,
-            "E": 25.09729,
-            "__OBJECTID": 99
-        }
-    }, {
-        "geometry": {
-            "x": 2831148.53,
-            "y": 8277211.8,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Kuusalu",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Laane tn 27, Kuusalu alevik, Kuusalu v, 74601",
-            "Lisainfo": "https://www.facebook.com/kuusaluvabatahtlik/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.44507,
-            "E": 25.43264,
-            "__OBJECTID": 100
-        }
-    }, {
-        "geometry": {
-            "x": 2697834.54,
-            "y": 8262207.45,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Lohusalu",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Lohusalu k, Lääne-Harju v, 76709",
-            "Lisainfo": "https://www.facebook.com/lohusalups/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.37648,
-            "E": 24.23506,
-            "__OBJECTID": 101
-        }
-    }, {
-        "geometry": {
-            "x": 2719535.16,
-            "y": 8279815.88,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Muraste",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Muraste tee 20, Muraste k, Harku v, 76905",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.45696,
-            "E": 24.43,
-            "__OBJECTID": 102,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2732605.18,
-            "y": 8298087.71,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Naissaare",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Männiku tee 22, Lõunaküla /Storbyn, Viimsi v, 74022",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.54027,
-            "E": 24.54741,
-            "__OBJECTID": 103,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2800685.96,
-            "y": 8295720.86,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Neeme",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Neeme tee 1, Neeme k, Jõelähtme v, 74266",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.52949,
-            "E": 25.15899,
-            "__OBJECTID": 104,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2706865.89,
-            "y": 8202294.48,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Nissi",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Nissi tee 63, Riisipere alevik, Saue v, 76202",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.10121,
-            "E": 24.31619,
-            "__OBJECTID": 105,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2687831.37,
-            "y": 8229956.67,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Padise",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Padise k, Lääne-Harju v, 76002",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.22858,
-            "E": 24.1452,
-            "__OBJECTID": 106,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2784226.81,
-            "y": 8317797.27,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Prangli",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Estali tee 2, Idaotsa küla, Viimsi v, 74002",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.629905,
-            "E": 25.011135,
-            "__OBJECTID": 107,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2804904.96,
-            "y": 8262677.31,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Raasiku",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Pae 4, Raasiku alevik, Raasiku v, 75203",
-            "Lisainfo": "https://www.facebook.com/RaasikuVPK/",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.37863,
-            "E": 25.19689,
-            "__OBJECTID": 108
-        }
-    }, {
-        "geometry": {
-            "x": 2766840.38,
-            "y": 8261770.4,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Rae",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Järve tee 3A, Assaku alevik, Rae v, 75301",
-            "Lisainfo": "http://www.raetps.eu/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.37448,
-            "E": 24.85495,
-            "__OBJECTID": 109
-        }
-    }, {
-        "geometry": {
-            "x": 2747265.96,
-            "y": 8248247.61,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Saku",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Tammemäe k, Saku v, 75509",
-            "Lisainfo": "https://www.facebook.com/sakupriitahtlikud/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.31254,
-            "E": 24.67911,
-            "__OBJECTID": 110
-        }
-    }, {
-        "geometry": {
-            "x": 2699377.43,
-            "y": 8196489.32,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Turba",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Lehetu tee 19, Turba alevik,  Saue v, 76201",
-            "Lepingujärgne_väljasõidu_aeg": 15,
-            "N": 59.07442,
-            "E": 24.24892,
-            "__OBJECTID": 111,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2752697.24,
-            "y": 8239455.97,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Tõdva",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Tõdva k, Saku v, 75508",
-            "Lisainfo": "http://todvarescue.ee/\n\nhttps://www.facebook.com/todvarescue.ee/",
-            "Lepingujärgne_väljasõidu_aeg": 5,
-            "N": 59.27221,
-            "E": 24.7279,
-            "__OBJECTID": 112
-        }
-    }, {
-        "geometry": {
-            "x": 2793682.85,
-            "y": 8239941.82,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Urvaste",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Urvaste k, Rae v, 75218",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.27444,
-            "E": 25.09608,
-            "__OBJECTID": 113,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2780438.05,
-            "y": 8242347.58,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Vaida",
-            "Piirkond": "Harjumaa",
-            "Struktuuriüksus": "PPK",
-            "Aadress": "Vana-Vaida tee 7, Vaida alevik, Rae v, 75302",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 59.28548,
-            "E": 24.9771,
-            "__OBJECTID": 114,
-            "Lisainfo": null
-        }
-    }, {
-        "geometry": {
-            "x": 2975985.21,
-            "y": 7981436.9,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Päästekomando_nimetus": "Saverna",
-            "Piirkond": "Põlvamaa",
-            "Aadress": "Saverna k, Kanepi v, 63418",
-            "Lisainfo": "https://www.facebook.com/Saverna-vabatahtlikud-p%C3%A4%C3%A4stjad-204334389919166/",
-            "Lepingujärgne_väljasõidu_aeg": 10,
-            "N": 58.06715,
-            "E": 26.73373,
-            "__OBJECTID": 115,
-            "Struktuuriüksus": null
-        }
-    }]
-}
+[{
+    "geometry": {
+        "x": 2971487.9,
+        "y": 8277586.26,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Aasukalda",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Maarja 7, Viru-Nigula alevik, Viru-Nigula v, 44001",
+        "Lisainfo": "https://www.aasukalda.eu/\n\nhttps://www.facebook.com/Aasukalda-Maa-ja-Merep%C3%A4%C3%A4stekomando-483756561739162/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.44678,
+        "E": 26.69333,
+        "__OBJECTID": 0
+    }
+}, {
+    "geometry": {
+        "x": 3041000.25,
+        "y": 8198317.7,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Iisaku",
+        "Piirkond": "Ida-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Tartu mnt 65, Iisaku alevik, Alutaguse v, 41101",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.08286,
+        "E": 27.31777,
+        "__OBJECTID": 1,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 3085494.65,
+        "y": 8188795.1,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Jaama",
+        "Piirkond": "Ida-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Jaama k, Alutaguse v, 41204",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.03888,
+        "E": 27.71747,
+        "__OBJECTID": 2,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2909467.36,
+        "y": 8254366.27,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kadrina",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Pargi 3, Kadrina alevik, Kadrina v, 45201",
+        "Lisainfo": "https://www.facebook.com/kadrinavpk/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.34058,
+        "E": 26.13619,
+        "__OBJECTID": 3
+    }
+}, {
+    "geometry": {
+        "x": 3038306.31,
+        "y": 8228514.22,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Mäetaguse",
+        "Piirkond": "Ida-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Kooli 17, Mäetaguse alevik, Alutaguse v, 41301",
+        "Lisainfo": "https://www.facebook.com/M%C3%A4etaguse-Vabatahtlik-P%C3%A4%C3%A4stekomando-262220920638142/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.22195,
+        "E": 27.29357,
+        "__OBJECTID": 4
+    }
+}, {
+    "geometry": {
+        "x": 3006925.35,
+        "y": 8271678.16,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Purtse",
+        "Piirkond": "Ida-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Lossiaida, Purtse k, Lüganuse v, 43302",
+        "Lisainfo": "http://purtserescue.blogspot.com/\n\nhttps://www.facebook.com/Purtse-Vabatahtlik-P%C3%A4%C3%A4steVolunteer-Firefighting-295202610490226/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.41979,
+        "E": 27.01167,
+        "__OBJECTID": 5
+    }
+}, {
+    "geometry": {
+        "x": 2987863,
+        "y": 8275326.66,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Rannu",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Töökoja, Rannu k, Viru-Nigula v, 43408",
+        "Lisainfo": "https://www.facebook.com/rannuvabatahtlik.paaste",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.43646,
+        "E": 26.84043,
+        "__OBJECTID": 6
+    }
+}, {
+    "geometry": {
+        "x": 2961512.56,
+        "y": 8217901.39,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Roela",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Veski 8, Roela alevik, Vinni v, 46602",
+        "Lisainfo": "https://www.facebook.com/roelavabatahtlikkomando/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.17313,
+        "E": 26.60372,
+        "__OBJECTID": 7
+    }
+}, {
+    "geometry": {
+        "x": 2938718.78,
+        "y": 8190262.32,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Simuna",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Pargi 2, Simuna alevik, Väike-Maarja v, 46401",
+        "Lisainfo": "https://www.facebook.com/simunavts/\n\nhttps://simunavts.wordpress.com/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.04566,
+        "E": 26.39896,
+        "__OBJECTID": 8
+    }
+}, {
+    "geometry": {
+        "x": 2732057.49,
+        "y": 8272947.38,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Tabasalu",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Ranna tee 4, Tabasalu alevik, Harku v, 76901",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.42559,
+        "E": 24.54249,
+        "__OBJECTID": 9,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2906018.68,
+        "y": 8216248.44,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Tamsalu",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Tehnika tn 2a, Tamsalu linn, Tapa v, 46107",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.16552,
+        "E": 26.10521,
+        "__OBJECTID": 10,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2989146.51,
+        "y": 8219044.11,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Tudu",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Allikvee 4, Tudu alevik, Vinni v, 46606",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.17839,
+        "E": 26.85196,
+        "__OBJECTID": 11,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2894513.81,
+        "y": 8203489.01,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Vajangu",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Tamsalu mnt 24, Vajangu k,  Tapa v, 46002",
+        "Lisainfo": "https://www.facebook.com/Vajangu-Tulet%C3%B5rje%C3%BChing-1934541170166044/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.10672,
+        "E": 26.00186,
+        "__OBJECTID": 12
+    }
+}, {
+    "geometry": {
+        "x": 2890189.05,
+        "y": 8306667.84,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Võsu",
+        "Piirkond": "Lääne-Virumaa",
+        "Struktuuriüksus": "IPK",
+        "Aadress": "Sadama 2, Võsu alevik, Haljala v, 45501",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.57932,
+        "E": 25.96301,
+        "__OBJECTID": 13,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2505648.71,
+        "y": 8001866.98,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Abruka",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Abruka k, Saaremaa v, 93826",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.1640899,
+        "E": 22.5086253,
+        "__OBJECTID": 14,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2734505.41,
+        "y": 8076298.6,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Are",
+        "Piirkond": "Pärnumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Karja tee, Are alevik, Tori v, 87301",
+        "Lisainfo": "https://www.facebook.com/aretuletorje.vabatahtlik",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.51504,
+        "E": 24.56448,
+        "__OBJECTID": 15
+    }
+}, {
+    "geometry": {
+        "x": 2515654.63,
+        "y": 8116473.11,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Emmaste",
+        "Piirkond": "Hiiumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Emmaste k, Hiiumaa v, 92001",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.70302,
+        "E": 22.59851,
+        "__OBJECTID": 16,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2868184.31,
+        "y": 8123965.32,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Imavere",
+        "Piirkond": "Järvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kadastiku tee 1, Imavere k, Järva v, 72401",
+        "Lisainfo": "https://www.facebook.com/imaverevabatahtlikud/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.737965,
+        "E": 25.765338,
+        "__OBJECTID": 17
+    }
+}, {
+    "geometry": {
+        "x": 2880856.03,
+        "y": 8188444.56,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Järva-Jaani",
+        "Piirkond": "Järvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Pikk 35, Järva-Jaani alevik, Järva v, 73301",
+        "Lisainfo": "http://www.jjts.ee/\n\nhttps://www.facebook.com/profile.php?id=147216365821538&ref=content_filter",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.03726,
+        "E": 25.87917,
+        "__OBJECTID": 18
+    }
+}, {
+    "geometry": {
+        "x": 2853871.07,
+        "y": 8114626.13,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kabala",
+        "Piirkond": "Järvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kabala k, Türi v, 72001",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.6944,
+        "E": 25.63676,
+        "__OBJECTID": 19,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2788774.77,
+        "y": 8183934.56,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kaiu",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kasvandu tee 5d, Kaiu alevik, Rapla v, 79301",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.01641,
+        "E": 25.05199,
+        "__OBJECTID": 20,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2438156.22,
+        "y": 8023641.69,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Karala",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Karala k, Saaremaa v, 93325",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.26712,
+        "E": 21.90233,
+        "__OBJECTID": 21,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2768748.39,
+        "y": 8164696.66,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kehtna",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Staadioni 13a, Kehtna alevik, Kehtna v, 79001",
+        "Lisainfo": "https://www.facebook.com/profile.php?id=431479087275640&ref=content_filter",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.92733,
+        "E": 24.87209,
+        "__OBJECTID": 22
+    }
+}, {
+    "geometry": {
+        "x": 2607455.36,
+        "y": 8102644.76,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kesselaiu",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kesse k, Muhu v, 94720",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.63843,
+        "E": 23.42317,
+        "__OBJECTID": 23,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2656598.46,
+        "y": 8155723.17,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kirna",
+        "Piirkond": "Läänemaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Madise talu, Väike-Lähtru küla, Lääne-Nigula v, 90636",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.8857,
+        "E": 23.86463,
+        "__OBJECTID": 24,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2688518.21,
+        "y": 8090277.89,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Koonga",
+        "Piirkond": "Pärnumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Valla, Koonga k, Lääneranna v, 88401",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.580565,
+        "E": 24.15137,
+        "__OBJECTID": 25,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2795730.01,
+        "y": 8190693.01,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kuimetsa",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kuimetsa k, Rapla v, 79302",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.04765,
+        "E": 25.11447,
+        "__OBJECTID": 26,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2630648.77,
+        "y": 8099353.62,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kõmsi",
+        "Piirkond": "Pärnumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kõmsi k, Lääneranna v, 90102",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.62304,
+        "E": 23.63152,
+        "__OBJECTID": 27,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2500970.47,
+        "y": 8176238.19,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kõrgessaare",
+        "Piirkond": "Hiiumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Tööstuse tee 27b, Kõrgessaare alevik, Hiiumaa v, 92201",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.9808,
+        "E": 22.4666,
+        "__OBJECTID": 28,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2573410.29,
+        "y": 8073689.33,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kõrkvere",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Katlamaja, Tornimäe k, Saaremaa v, 94501",
+        "Lisainfo": "https://www.facebook.com/groups/152123131998197/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.502796,
+        "E": 23.117338,
+        "__OBJECTID": 29
+    }
+}, {
+    "geometry": {
+        "x": 2799793.84,
+        "y": 8144692.82,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Käru",
+        "Piirkond": "Järvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Lao 35, Käru alevik, Türi v, 79201",
+        "Lisainfo": "https://www.facebook.com/MT%C3%9C-K%C3%A4ru-Tulet%C3%B5rje-Selts-1531538333584250/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.834459,
+        "E": 25.150976,
+        "__OBJECTID": 30
+    }
+}, {
+    "geometry": {
+        "x": 2690380.59,
+        "y": 8162878.67,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Laukna",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Laukna k, Märjamaa v, 78101",
+        "Lisainfo": "https://www.facebook.com/mtulauknapritsumeesteselts/\nhttps://lauknapritsumeesteselts.ee/index.php/et/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.9189,
+        "E": 24.1681,
+        "__OBJECTID": 31
+    }
+}, {
+    "geometry": {
+        "x": 2525256.82,
+        "y": 8087701.09,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Leisi",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kuressaare mnt 12, Leisi alevik, Saaremaa v, 94202",
+        "Lisainfo": "https://www.facebook.com/LeisiVPK\nhttp://vpk.leisi.ee/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.568496,
+        "E": 22.684768,
+        "__OBJECTID": 32
+    }
+}, {
+    "geometry": {
+        "x": 2753347.34,
+        "y": 8159800.1,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Lipa",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Lipa k, Rapla v, 78405",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.90462,
+        "E": 24.73374,
+        "__OBJECTID": 33,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2774293.22,
+        "y": 8136731.95,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Lokuta",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Lokuta k, Kehtna v, 79006",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.79743,
+        "E": 24.9219,
+        "__OBJECTID": 34,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2581904.19,
+        "y": 8094412.15,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Muhu",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Piiri k, Muhu v, 94730",
+        "Lisainfo": "https://www.facebook.com/MuhuVPK/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.59992,
+        "E": 23.19364,
+        "__OBJECTID": 35
+    }
+}, {
+    "geometry": {
+        "x": 2475059.97,
+        "y": 8064206.09,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Mustjala",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Mustjala k, Saaremaa v, 93601",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.45826,
+        "E": 22.233842,
+        "__OBJECTID": 36,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2637912.37,
+        "y": 8228211.85,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Nõva",
+        "Piirkond": "Läänemaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Nõva k, Lääne-Nigula v, 91101",
+        "Lisainfo": "https://www.facebook.com/novakomando/?ref=page_internal&mt_nav=0",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.22056,
+        "E": 23.69677,
+        "__OBJECTID": 37
+    }
+}, {
+    "geometry": {
+        "x": 2846188.91,
+        "y": 8128599.06,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Oisu",
+        "Piirkond": "Järvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Oisu alevik, Türi v, 72301",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.75956,
+        "E": 25.56775,
+        "__OBJECTID": 38,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2659039.7,
+        "y": 8173799.74,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Palivere",
+        "Piirkond": "Läänemaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Palivere alevik, Lääne-Nigula v, 90802",
+        "Lisainfo": "https://www.facebook.com/profile.php?id=293499827935252&ref=content_filter",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.96951,
+        "E": 23.88656,
+        "__OBJECTID": 39
+    }
+}, {
+    "geometry": {
+        "x": 2527845.22,
+        "y": 8031031.92,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Pihtla",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Pihtla k, Saaremaa v, 94101",
+        "Lisainfo": "https://www.facebook.com/Pihtla-Vabatahtlik-P%C3%A4%C3%A4stekomando-1479766425602664/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.30202,
+        "E": 22.70802,
+        "__OBJECTID": 40
+    }
+}, {
+    "geometry": {
+        "x": 2727427.71,
+        "y": 8096405.87,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Pärnu-Jaagupi",
+        "Piirkond": "Pärnumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kooli 4, Pärnu-Jaagupi alev,  Põhja-Pärnumaa v, 87201",
+        "Lisainfo": "https://www.facebook.com/pjts4/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.60925,
+        "E": 24.5009,
+        "__OBJECTID": 41
+    }
+}, {
+    "geometry": {
+        "x": 2618789.91,
+        "y": 8181629.79,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Pürksi",
+        "Piirkond": "Läänemaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Pürksi k, Lääne-Nigula v, 91201",
+        "Lisainfo": "http://www.tuletorje.ee/\n\nhttps://www.facebook.com/profile.php?id=169085753127263&ref=content_filter",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.00575,
+        "E": 23.52499,
+        "__OBJECTID": 42
+    }
+}, {
+    "geometry": {
+        "x": 2629315.17,
+        "y": 8151631.25,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Ridala",
+        "Piirkond": "Läänemaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Parila k, Haapsalu linn, 90418",
+        "Lisainfo": "https://www.facebook.com/ridalapritsumehed/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.8667,
+        "E": 23.61954,
+        "__OBJECTID": 43
+    }
+}, {
+    "geometry": {
+        "x": 2587782.98,
+        "y": 7925011.17,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Ruhnu",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Ruhnu k, Ruhnu v, 93001",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 57.79804,
+        "E": 23.24645,
+        "__OBJECTID": 44,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2477101.35,
+        "y": 8001634.87,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Salme",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Salme alevik, Saaremaa v, 93201",
+        "Lisainfo": "https://www.facebook.com/salmevpk/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.16299,
+        "E": 22.25218,
+        "__OBJECTID": 45
+    }
+}, {
+    "geometry": {
+        "x": 2744822.5,
+        "y": 8052910.72,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Sindi",
+        "Piirkond": "Pärnumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kooli 9a, Sindi linn, Tori v, 86703",
+        "Lisainfo": "https://www.facebook.com/sindituleselts",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.40514,
+        "E": 24.65716,
+        "__OBJECTID": 46
+    }
+}, {
+    "geometry": {
+        "x": 2878126.47,
+        "y": 8149624.87,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Sõrandu",
+        "Piirkond": "Järvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Sõrandu k, Järva v, 72508",
+        "Lisainfo": "https://www.facebook.com/profile.php?id=292626854086097&ref=content_filter",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.85738,
+        "E": 25.85465,
+        "__OBJECTID": 47
+    }
+}, {
+    "geometry": {
+        "x": 2756714.76,
+        "y": 8062050.75,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Taali",
+        "Piirkond": "Pärnumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Taali k, Tori v, 86818",
+        "Lisainfo": "https://www.facebook.com/Taali-Vabatahtlik-P%C3%A4%C3%A4ste-499036210184667/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.44813,
+        "E": 24.76399,
+        "__OBJECTID": 48
+    }
+}, {
+    "geometry": {
+        "x": 2549761.8,
+        "y": 8076091.86,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Tagavere",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kareda k, Saaremaa v, 94625",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.51407,
+        "E": 22.9049,
+        "__OBJECTID": 49,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2757536.29,
+        "y": 7982274.59,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Tali",
+        "Piirkond": "Pärnumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Tali k, Saarde v, 86101",
+        "Lisainfo": "https://www.facebook.com/Saardepritsumehed/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.07113,
+        "E": 24.77137,
+        "__OBJECTID": 50
+    }
+}, {
+    "geometry": {
+        "x": 2457781.85,
+        "y": 7962653.35,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Torgu",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Iide k, Saaremaa v, 93101",
+        "Lisainfo": "https://turvalinesorve.weebly.com/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.97779,
+        "E": 22.07863,
+        "__OBJECTID": 51
+    }
+}, {
+    "geometry": {
+        "x": 2812378.95,
+        "y": 8169762.63,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Vahastu",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Vahastu k, Rapla v, 79303",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.95081,
+        "E": 25.26403,
+        "__OBJECTID": 52,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2737011.21,
+        "y": 8141480.06,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Valgu",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Valgu k, Märjamaa v, 78204",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.81952,
+        "E": 24.58699,
+        "__OBJECTID": 53,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2537401.11,
+        "y": 8053468.28,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Valjala",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Posti 18, Valjala alevik, Saaremaa v, 94302",
+        "Lisainfo": "https://www.facebook.com/ValjalaVPK",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.407764,
+        "E": 22.793862,
+        "__OBJECTID": 54
+    }
+}, {
+    "geometry": {
+        "x": 2699995.03,
+        "y": 8130792.37,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Vana-Vigala",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Hirvepargi tee 27, Vana-Vigala k, Märjamaa v, 78003",
+        "Lisainfo": "http://ligimesekaitseks.ee/komandod/vana-vigala/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.769777,
+        "E": 24.254468,
+        "__OBJECTID": 55
+    }
+}, {
+    "geometry": {
+        "x": 2724786.1,
+        "y": 8199990.51,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Varbola",
+        "Piirkond": "Raplamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Käbiküla, Märjamaa v, 78230",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.09058,
+        "E": 24.47717,
+        "__OBJECTID": 56,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2640552.98,
+        "y": 8085686.43,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Vatla",
+        "Piirkond": "Pärnumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Vatla k, Lääneranna v, 90103",
+        "Lisainfo": "https://www.facebook.com/Vatla-VPK-1274498849256990/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.559057,
+        "E": 23.720491,
+        "__OBJECTID": 57
+    }
+}, {
+    "geometry": {
+        "x": 2431175.49,
+        "y": 8047222.49,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Vilsandi",
+        "Piirkond": "Saaremaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Koolinuka, Vilsandi küla,  Saaremaa v, 93421",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.378359,
+        "E": 21.839621,
+        "__OBJECTID": 58,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2588093.56,
+        "y": 8178253.04,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Vormsi",
+        "Piirkond": "Läänemaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Hullo küla, Vormsi v, 91301",
+        "Lisainfo": "https://www.facebook.com/Vormsi-Merep%C3%A4%C3%A4ste-Selts-Vormsi-SAR-1424267534545353/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.990126,
+        "E": 23.24924,
+        "__OBJECTID": 59
+    }
+}, {
+    "geometry": {
+        "x": 2831691.77,
+        "y": 8158599.63,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Väätsa",
+        "Piirkond": "Järvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Aasuvälja k, Türi v, 72807",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.89905,
+        "E": 25.43752,
+        "__OBJECTID": 60,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2989017.38,
+        "y": 8178119.94,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Avinurme",
+        "Piirkond": "Jõgevamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Tööstuse 1, Avinurme alevik, Mustvee v, 42101",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.98951,
+        "E": 26.8508,
+        "__OBJECTID": 61,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2843488.3,
+        "y": 7989487.24,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Karksi-Nuia",
+        "Piirkond": "Viljandimaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Pärnu mnt 10, Karksi-Nuia, Mulgi v, 69103",
+        "Lisainfo": "https://www.facebook.com/KarksiNuiaTulekaitseSelts/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.10538,
+        "E": 25.54349,
+        "__OBJECTID": 62
+    }
+}, {
+    "geometry": {
+        "x": 2927937.49,
+        "y": 7916224.04,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Karula",
+        "Piirkond": "Valgamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Karula k, Valga v, 68106",
+        "Lisainfo": "https://www.facebook.com/karulavabatahtlikud/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.75595,
+        "E": 26.30211,
+        "__OBJECTID": 63
+    }
+}, {
+    "geometry": {
+        "x": 2887973.79,
+        "y": 8080353.69,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kolga-Jaani",
+        "Piirkond": "Viljandimaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Viljandi mnt 6, Kolga-Jaani alevik, Viljandi v, 70301",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.53406,
+        "E": 25.94311,
+        "__OBJECTID": 64,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2817253.64,
+        "y": 8036336.63,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kõpu",
+        "Piirkond": "Viljandimaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Viljandi mnt 8, Kõpu alevik,  Põhja-Sakala v, 71201",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.32705,
+        "E": 25.30782,
+        "__OBJECTID": 65,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2937552.16,
+        "y": 8070531.03,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Laeva",
+        "Piirkond": "Tartumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Laeva k, Tartu v, 60608",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.48797,
+        "E": 26.38848,
+        "__OBJECTID": 66,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 3025878.61,
+        "y": 7938685.09,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Lasva",
+        "Piirkond": "Võrumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Lasva k,  Võru v, 65401",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.86344,
+        "E": 27.18193,
+        "__OBJECTID": 67,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 3005735.9,
+        "y": 8164110.02,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Lohusuu",
+        "Piirkond": "Jõgevamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Otsara, Tammispää k, Mustvee v, 42006",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.92461,
+        "E": 27.000985,
+        "__OBJECTID": 68,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 3057977.58,
+        "y": 7914427.79,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Meremäe",
+        "Piirkond": "Võrumaa",
+        "Struktuuriüksus": "LÕPK",
+        "Aadress": "Meremäe k, Setomaa v 65302",
+        "Lisainfo": "https://www.facebook.com/mtumvp.ee/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.74734,
+        "E": 27.47028,
+        "__OBJECTID": 69
+    }
+}, {
+    "geometry": {
+        "x": 3030845.68,
+        "y": 7884278.84,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Misso",
+        "Piirkond": "Võrumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Misso pritsumaja, Misso alevik, Rõuge v, 65001",
+        "Lisainfo": "https://www.facebook.com/misso.vabatahtlikud",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.60252,
+        "E": 27.22655,
+        "__OBJECTID": 70
+    }
+}, {
+    "geometry": {
+        "x": 2803584.72,
+        "y": 7986845.66,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Mõisaküla",
+        "Piirkond": "Viljandimaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "J Sihveri 5, Mõisaküla, Mulgi v, 69302",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.09284,
+        "E": 25.18503,
+        "__OBJECTID": 71,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 3056198.7,
+        "y": 7943744.87,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Orava",
+        "Piirkond": "Võrumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Orava k, Võru v 64101",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.88761,
+        "E": 27.4543,
+        "__OBJECTID": 72,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 3009678.28,
+        "y": 8110528.85,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Pala",
+        "Piirkond": "Tartumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Pala k, Peipsiääre v 49426",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.67527,
+        "E": 27.0364,
+        "__OBJECTID": 73,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2959351.85,
+        "y": 8113047.35,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Palamuse",
+        "Piirkond": "Jõgevamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "O. Lutsu 5a, Palamuse alevik,  Jõgeva v,  49226",
+        "Lisainfo": "https://www.facebook.com/PalamuseVabatahtlikudPaastjad/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 58.68703,
+        "E": 26.58431,
+        "__OBJECTID": 74
+    }
+}, {
+    "geometry": {
+        "x": 3063699.4,
+        "y": 8047326.74,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Piirissaare",
+        "Piirkond": "Tartumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Tooni k, Tartu v, 62603",
+        "Lisainfo": "https://www.facebook.com/Piirissaare-Vabatahtlik-Tulet%C3%B5rje-Selts-1579869775573220/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.37885,
+        "E": 27.52168,
+        "__OBJECTID": 75
+    }
+}, {
+    "geometry": {
+        "x": 2919746.6,
+        "y": 7979256.81,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Puka",
+        "Piirkond": "Valgamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kesk 47, Puka, Otepää v, 67217",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 58.05679,
+        "E": 26.22853,
+        "__OBJECTID": 76,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2926344.51,
+        "y": 8089582.85,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Puurmani",
+        "Piirkond": "Jõgevamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Tallinna mnt 6/1, Puurmani alevik, Põltsamaa v, 49014",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.57731,
+        "E": 26.2878,
+        "__OBJECTID": 77,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2992341.38,
+        "y": 7963394.47,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Põlgaste",
+        "Piirkond": "Põlvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Põlgaste keskus 9, Põlgaste k, Kanepi v, 63123",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.98132,
+        "E": 26.88066,
+        "__OBJECTID": 78,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2921704.71,
+        "y": 7997818.3,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Rõngu",
+        "Piirkond": "Tartumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Puiestee põik 2a, Rõngu alevik, Elva v, 61001",
+        "Lisainfo": "https://www.facebook.com/R%C3%B5ngu-Vabatahtlik-P%C3%A4%C3%A4steselts-183704138722954/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 58.1449,
+        "E": 26.24612,
+        "__OBJECTID": 79
+    }
+}, {
+    "geometry": {
+        "x": 2994817.13,
+        "y": 7910536.34,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Rõuge",
+        "Piirkond": "Võrumaa",
+        "Struktuuriüksus": "LÕPK",
+        "Aadress": "Tehnika 12, Handimiku k, Rõuge v, 66213",
+        "Lisainfo": "https://www.facebook.com/R%C3%B5uge-Priitahtlikud-Pritsimehed-131979127477421/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.72868,
+        "E": 26.9029,
+        "__OBJECTID": 80
+    }
+}, {
+    "geometry": {
+        "x": 2929022.86,
+        "y": 7953467.85,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Sangaste",
+        "Piirkond": "Valgamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Tiidu k, Otepää v,  67010",
+        "Lisainfo": "https://www.facebook.com/groups/203964292959754/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 57.93401,
+        "E": 26.31186,
+        "__OBJECTID": 81
+    }
+}, {
+    "geometry": {
+        "x": 3018528.18,
+        "y": 7901124.67,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Suhka",
+        "Piirkond": "Võrumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Mäe-Suhka k, Rõuge v, 65128",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.68351,
+        "E": 27.1159,
+        "__OBJECTID": 82,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2972224.84,
+        "y": 7917137.98,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Tsooru",
+        "Piirkond": "Võrumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Luhametsa k, Antsla v, 66403",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 57.76033,
+        "E": 26.69995,
+        "__OBJECTID": 83,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2973124.3,
+        "y": 8035372.05,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Tõrvandi",
+        "Piirkond": "Tartumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Papli 4, Tõrvandi alevik, Kambja v, 61715",
+        "Lisainfo": "https://www.facebook.com/torvandipaasteselts/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 58.3225,
+        "E": 26.70803,
+        "__OBJECTID": 84
+    }
+}, {
+    "geometry": {
+        "x": 2967808.79,
+        "y": 7986306.5,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Valgjärve",
+        "Piirkond": "Põlvamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Valgjärve k, Kanepi v, 63419",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.09028,
+        "E": 26.66028,
+        "__OBJECTID": 85,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2976984.86,
+        "y": 8120031.21,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Voore",
+        "Piirkond": "Jõgevamaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Voore k, Mustvee v,  49324",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.71962,
+        "E": 26.74271,
+        "__OBJECTID": 86,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 3011036.38,
+        "y": 8027174.96,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Võnnu",
+        "Piirkond": "Tartumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Tartu 24, Võnnu alevik, Kastre v, 62401",
+        "Lisainfo": "https://www.facebook.com/VonnuVabatahtlikPaaste/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 58.28381,
+        "E": 27.0486,
+        "__OBJECTID": 87
+    }
+}, {
+    "geometry": {
+        "x": 2952833.76,
+        "y": 8024606.03,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Nõo",
+        "Piirkond": "Tartumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Voika tn 12, Nõo alevik, Nõo vald, 61601",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.271676,
+        "E": 26.525757,
+        "__OBJECTID": 88,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2971427.79,
+        "y": 8017413.29,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kambja",
+        "Piirkond": "Tartumaa",
+        "Struktuuriüksus": "LÄPK",
+        "Aadress": "Kesk 2A, Kambja alevik, Kambja v, 62034",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 58.23768,
+        "E": 26.69279,
+        "__OBJECTID": 89,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2755897,
+        "y": 8305133.01,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Aegna",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Tagamaa tee 1, Aegna saar, Tallinn",
+        "Lisainfo": "https://www.facebook.com/www.rpr.ee/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.572338,
+        "E": 24.756644,
+        "__OBJECTID": 90
+    }
+}, {
+    "geometry": {
+        "x": 2850380.09,
+        "y": 8243363.29,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Aegviidu",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Side 1a, Aegviidu alev, Anija v, 74501",
+        "Lisainfo": "https://www.facebook.com/Aegviidu-P%C3%A4%C3%A4steselts-MT%C3%9C-538739853124173/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.29014,
+        "E": 25.6054,
+        "__OBJECTID": 91
+    }
+}, {
+    "geometry": {
+        "x": 2800275.19,
+        "y": 8202526.43,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Alansi",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Habaja alevik, Kose v, 75002",
+        "Lisainfo": "https://www.facebook.com/Alansi-Vabatahtlik-P%C3%A4%C3%A4steselts-Alansi-Volunteer-Rescue-Department-634572103258084/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.10228,
+        "E": 25.1553,
+        "__OBJECTID": 92
+    }
+}, {
+    "geometry": {
+        "x": 2822603.65,
+        "y": 8201856.61,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Ardu",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Ardu katlamaja, Ardu alevik,  Kose v, 75001",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.09919,
+        "E": 25.35588,
+        "__OBJECTID": 93,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2791710.27,
+        "y": 8259159.54,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Aruküla",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Sügise 2a, Aruküla alevik, Raasiku v, 75201",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.36253,
+        "E": 25.07836,
+        "__OBJECTID": 94,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2731488.65,
+        "y": 8262552.74,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Hüüru",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Jõe tee 5, Hüüru k, Saue v, 76911",
+        "Lisainfo": "https://www.facebook.com/H%C3%BC%C3%BCru-Vabatahtlik-P%C3%A4%C3%A4stekomando-135370570354487/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.37806,
+        "E": 24.53738,
+        "__OBJECTID": 95
+    }
+}, {
+    "geometry": {
+        "x": 2813563.39,
+        "y": 8293119.96,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kaberneeme",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Kaberneeme põik 2, Kaberneeme k, Jõelähtme v, 74211",
+        "Lisainfo": "https://www.facebook.com/kaberneemevpk/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.51764,
+        "E": 25.27467,
+        "__OBJECTID": 96
+    }
+}, {
+    "geometry": {
+        "x": 2702479.9,
+        "y": 8227800.72,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kibuna",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Kibuna k, Saue v, 76313",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.21867,
+        "E": 24.27679,
+        "__OBJECTID": 97,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2851674.74,
+        "y": 8286787.24,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kolga",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Kolga alevik, Kuusalu v, 74602",
+        "Lisainfo": "https://www.facebook.com/kolga.vabatahtliktuletorjeuhing",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.48877,
+        "E": 25.61703,
+        "__OBJECTID": 98
+    }
+}, {
+    "geometry": {
+        "x": 2793817.54,
+        "y": 8273238.46,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kostivere",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Mõisa tee 2, Kostivere alevik, Jõelähtme v, 74204",
+        "Lisainfo": "https://www.facebook.com/mtykts/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.42692,
+        "E": 25.09729,
+        "__OBJECTID": 99
+    }
+}, {
+    "geometry": {
+        "x": 2831148.53,
+        "y": 8277211.8,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Kuusalu",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Laane tn 27, Kuusalu alevik, Kuusalu v, 74601",
+        "Lisainfo": "https://www.facebook.com/kuusaluvabatahtlik/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.44507,
+        "E": 25.43264,
+        "__OBJECTID": 100
+    }
+}, {
+    "geometry": {
+        "x": 2697834.54,
+        "y": 8262207.45,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Lohusalu",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Lohusalu k, Lääne-Harju v, 76709",
+        "Lisainfo": "https://www.facebook.com/lohusalups/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.37648,
+        "E": 24.23506,
+        "__OBJECTID": 101
+    }
+}, {
+    "geometry": {
+        "x": 2719535.16,
+        "y": 8279815.88,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Muraste",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Muraste tee 20, Muraste k, Harku v, 76905",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.45696,
+        "E": 24.43,
+        "__OBJECTID": 102,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2732605.18,
+        "y": 8298087.71,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Naissaare",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Männiku tee 22, Lõunaküla /Storbyn, Viimsi v, 74022",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.54027,
+        "E": 24.54741,
+        "__OBJECTID": 103,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2800685.96,
+        "y": 8295720.86,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Neeme",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Neeme tee 1, Neeme k, Jõelähtme v, 74266",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.52949,
+        "E": 25.15899,
+        "__OBJECTID": 104,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2706865.89,
+        "y": 8202294.48,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Nissi",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Nissi tee 63, Riisipere alevik, Saue v, 76202",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.10121,
+        "E": 24.31619,
+        "__OBJECTID": 105,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2687831.37,
+        "y": 8229956.67,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Padise",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Padise k, Lääne-Harju v, 76002",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.22858,
+        "E": 24.1452,
+        "__OBJECTID": 106,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2784226.81,
+        "y": 8317797.27,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Prangli",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Estali tee 2, Idaotsa küla, Viimsi v, 74002",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.629905,
+        "E": 25.011135,
+        "__OBJECTID": 107,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2804904.96,
+        "y": 8262677.31,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Raasiku",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Pae 4, Raasiku alevik, Raasiku v, 75203",
+        "Lisainfo": "https://www.facebook.com/RaasikuVPK/",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.37863,
+        "E": 25.19689,
+        "__OBJECTID": 108
+    }
+}, {
+    "geometry": {
+        "x": 2766840.38,
+        "y": 8261770.4,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Rae",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Järve tee 3A, Assaku alevik, Rae v, 75301",
+        "Lisainfo": "http://www.raetps.eu/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.37448,
+        "E": 24.85495,
+        "__OBJECTID": 109
+    }
+}, {
+    "geometry": {
+        "x": 2747265.96,
+        "y": 8248247.61,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Saku",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Tammemäe k, Saku v, 75509",
+        "Lisainfo": "https://www.facebook.com/sakupriitahtlikud/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.31254,
+        "E": 24.67911,
+        "__OBJECTID": 110
+    }
+}, {
+    "geometry": {
+        "x": 2699377.43,
+        "y": 8196489.32,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Turba",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Lehetu tee 19, Turba alevik,  Saue v, 76201",
+        "Lepingujärgne_väljasõidu_aeg": 15,
+        "N": 59.07442,
+        "E": 24.24892,
+        "__OBJECTID": 111,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2752697.24,
+        "y": 8239455.97,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Tõdva",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Tõdva k, Saku v, 75508",
+        "Lisainfo": "http://todvarescue.ee/\n\nhttps://www.facebook.com/todvarescue.ee/",
+        "Lepingujärgne_väljasõidu_aeg": 5,
+        "N": 59.27221,
+        "E": 24.7279,
+        "__OBJECTID": 112
+    }
+}, {
+    "geometry": {
+        "x": 2793682.85,
+        "y": 8239941.82,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Urvaste",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Urvaste k, Rae v, 75218",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.27444,
+        "E": 25.09608,
+        "__OBJECTID": 113,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2780438.05,
+        "y": 8242347.58,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Vaida",
+        "Piirkond": "Harjumaa",
+        "Struktuuriüksus": "PPK",
+        "Aadress": "Vana-Vaida tee 7, Vaida alevik, Rae v, 75302",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 59.28548,
+        "E": 24.9771,
+        "__OBJECTID": 114,
+        "Lisainfo": null
+    }
+}, {
+    "geometry": {
+        "x": 2975985.21,
+        "y": 7981436.9,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Päästekomando_nimetus": "Saverna",
+        "Piirkond": "Põlvamaa",
+        "Aadress": "Saverna k, Kanepi v, 63418",
+        "Lisainfo": "https://www.facebook.com/Saverna-vabatahtlikud-p%C3%A4%C3%A4stjad-204334389919166/",
+        "Lepingujärgne_väljasõidu_aeg": 10,
+        "N": 58.06715,
+        "E": 26.73373,
+        "__OBJECTID": 115,
+        "Struktuuriüksus": null
+    }
+}]

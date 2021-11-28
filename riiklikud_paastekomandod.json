@@ -1,1947 +1,1945 @@
-{
-    "features": [{
-        "geometry": {
-            "x": 2822765,
-            "y": 7993894,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Abja-Paluoja Paastekomando",
-            "Paastepiirkond": "Viljandimaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Kooli 1, Abja-Paluoja, 69402",
-            "Paastekomando_pealik": "Aimar Sikka",
-            "Pealiku_telefon": "4360112, 5521069",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Metsakustutus 2 ja 3",
-            "Asukoht_N": 58.12629,
-            "Asukoht_E": 25.35733,
-            "__OBJECTID": 0,
-            "Teenus_4": "Päästetöö transport 2",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3020255,
-            "y": 8094780,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Alatskivi Paastekomando",
-            "Paastepiirkond": "Tartumaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Lossi 3, Alatskivi alevik, Alatskivi v, 60201",
-            "Paastekomando_pealik": "Varmo Laumets",
-            "Pealiku_telefon": "7453784, 5038018",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2",
-            "Asukoht_N": 58.60164,
-            "Asukoht_E": 27.13141,
-            "__OBJECTID": 1,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2980385,
-            "y": 8047233,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Annelinna Paastekomando",
-            "Paastepiirkond": "Tartumaa",
-            "Koosseis": 58,
-            "Pidevalt_valves": 10,
-            "Aadress": "Jaama 207, Tartu linn, 50705",
-            "Paastekomando_pealik": "Jaano Maask",
-            "Pealiku_telefon": "7337334, 5028342",
-            "Teenus": "Baasteenus 2 meeskonda",
-            "Teenus_2": "Kõrgustest pääste 2",
-            "Teenus_3": "Keemiapaaste 2",
-            "Teenus_4": "Päästetöö transport 3 ja 5",
-            "Teenus_5": "Veepaaste 2 ja 3",
-            "Teenus_6": "Metsakustutus 2",
-            "Teenus_7": "Päästetöö toetus (STAAP, OLME, TANKUR), Vee transport 2",
-            "Asukoht_N": 58.37841,
-            "Asukoht_E": 26.77325,
-            "__OBJECTID": 2
-        }
-    }, {
-        "geometry": {
-            "x": 2955104,
-            "y": 7932382,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Antsla Paastekomando",
-            "Paastepiirkond": "Vorumaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Meistripunkti, Kraavi kyla, Antsla vald, 66409",
-            "Paastekomando_pealik": "Toomas Sloog",
-            "Pealiku_telefon": "7855501, 5052101",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2 ja 3",
-            "Asukoht_N": 57.83331,
-            "Asukoht_E": 26.54615,
-            "__OBJECTID": 3,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2865557,
-            "y": 8208824,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Aravete Paastekomando",
-            "Paastepiirkond": "Jarvamaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Toostuse tee 3, Aravete alevik, Ambla v, 73501",
-            "Paastekomando_pealik": "Janno Rodendau (KT)",
-            "Pealiku_telefon": "3832361, 5100544",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 59.13132,
-            "Asukoht_E": 25.74174,
-            "__OBJECTID": 4,
-            "Teenus_3": null,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2766849,
-            "y": 8261773,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Assaku Paastekomando",
-            "Paastepiirkond": "Laane-Harju",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Jarve tee 3, Assaku alevik, Rae v, 75301",
-            "Paastekomando_pealik": "Leho Lõiv",
-            "Pealiku_telefon": "5184208",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Päästetöö transport 2",
-            "Asukoht_N": 59.37449,
-            "Asukoht_E": 24.85503,
-            "__OBJECTID": 5,
-            "Teenus_3": null,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2940935,
-            "y": 8016521,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Elva Paastekomando",
-            "Paastepiirkond": "Tartumaa",
-            "Koosseis": 27,
-            "Pidevalt_valves": 5,
-            "Aadress": "Kirde 14, Elva linn, 61506",
-            "Paastekomando_pealik": "Andres  Smirnov",
-            "Pealiku_telefon": "7367897, 5159520",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2, 3 ja 4",
-            "Teenus_3": "Päästetöö transport 4 ja 5",
-            "Teenus_4": "Veepaaste 3",
-            "Teenus_5": "Metsakustutus 3 ja 4",
-            "Asukoht_N": 58.23346,
-            "Asukoht_E": 26.41887,
-            "__OBJECTID": 6,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2621774,
-            "y": 8165074,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Haapsalu Paastekomando",
-            "Paastepiirkond": "Laanemaa",
-            "Koosseis": 27,
-            "Pidevalt_valves": 4,
-            "Aadress": "Toostuse 19, Haapsalu, 90510",
-            "Paastekomando_pealik": "Andres Kaljura",
-            "Pealiku_telefon": "4725106, 5068525",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Toetusteenus 2",
-            "Teenus_4": "Naftareostuskorje 3",
-            "Teenus_5": "Veepaaste 2 ja 3",
-            "Teenus_6": "Metsakustutus 2 ja 4",
-            "Asukoht_N": 58.92908,
-            "Asukoht_E": 23.5518,
-            "__OBJECTID": 7,
-            "Teenus_7": "Päästetöö transport 3, 4 , 5 ja 6"
-        }
-    }, {
-        "geometry": {
-            "x": 2726955.049215132,
-            "y": 7984710.049215131,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Haademeeste Paastekomando",
-            "Paastepiirkond": "Parnumaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Aiandi 4, Haademeeste, 86001",
-            "Paastekomando_pealik": "Enno Teor",
-            "Pealiku_telefon": "4498100, 56613911",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2, 3 ja 4",
-            "Asukoht_N": 58.08375,
-            "Asukoht_E": 24.49864,
-            "__OBJECTID": 8,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3040391,
-            "y": 8200623,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Iisaku Paastekomando",
-            "Paastepiirkond": "Ida-Virumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Vilkuri 1, Iisaku alevik, 41101",
-            "Paastekomando_pealik": "Hans Karp",
-            "Pealiku_telefon": "3393308, 53411677",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Metsakustutus 3 ja 4",
-            "Teenus_3": "Päästetöö transport 2 ja 5",
-            "Teenus_4": "Veetransport 2, 3 ja 4",
-            "Asukoht_N": 59.0935,
-            "Asukoht_E": 27.3123,
-            "__OBJECTID": 9,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2937098,
-            "y": 8125558,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Jogeva Paastekomando",
-            "Paastepiirkond": "Jogevamaa",
-            "Koosseis": 27,
-            "Pidevalt_valves": 5,
-            "Aadress": "Aia 36 Jogeva, 48307",
-            "Paastekomando_pealik": "Hannes Nigulas",
-            "Pealiku_telefon": "7768319, 5261744",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Päästetöö transport 2, 4 ja 5",
-            "Teenus_4": "Veepaaste 2 ja 3",
-            "Asukoht_N": 58.74539,
-            "Asukoht_E": 26.3844,
-            "__OBJECTID": 10,
-            "Teenus_5": "Metsakustutus 2 ja 3",
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3051092,
-            "y": 8259426,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Johvi Paastekomando",
-            "Paastepiirkond": "Ida-Virumaa",
-            "Koosseis": 47,
-            "Pidevalt_valves": 8,
-            "Aadress": "Rahu 38, Johvi, 41532",
-            "Paastekomando_pealik": "Jarmo Juhanson",
-            "Pealiku_telefon": "3391936, 55677470",
-            "Teenus": "Baasteenus 2 meeskonda",
-            "Teenus_2": "Kõrgustest päästetöö 2",
-            "Teenus_3": "Metsakustutus 2",
-            "Teenus_4": "Nööripääste 2",
-            "Teenus_5": "Päästetöö transport 2, 3 ja 5",
-            "Teenus_6": "Veepääste 2 ja 4",
-            "Teenus_7": "Veetransport 2",
-            "Asukoht_N": 59.36375,
-            "Asukoht_E": 27.40843,
-            "__OBJECTID": 11
-        }
-    }, {
-        "geometry": {
-            "x": 2762381,
-            "y": 8133222,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Jarvakandi Paastekomando",
-            "Paastepiirkond": "Raplamaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Tehaste 18, Jarvakandi, 79101",
-            "Paastekomando_pealik": "Marko Matson",
-            "Pealiku_telefon": "4877301, 5289261",
-            "Teenus": "Baasteenus",
-            "Asukoht_N": 58.78109,
-            "Asukoht_E": 24.81489,
-            "__OBJECTID": 12,
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": null,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2820120,
-            "y": 8251625,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kehra Paastekomando",
-            "Paastepiirkond": "Ida-Harju",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Kooli 16, Kehra, 74306",
-            "Paastekomando_pealik": "Aivar Kari",
-            "Pealiku_telefon": "6085001, 5110716",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2",
-            "Teenus_4": "Metsakustutus 2",
-            "Asukoht_N": 59.32802,
-            "Asukoht_E": 25.33357,
-            "__OBJECTID": 13,
-            "Teenus_5": "Päästetöö transport 4",
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2720133,
-            "y": 8247628,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Keila Paastekomando",
-            "Paastepiirkond": "Laane-Harju",
-            "Koosseis": 27,
-            "Pidevalt_valves": 5,
-            "Aadress": "ylejoe tee 2 A, Keila, 76603",
-            "Paastekomando_pealik": "Ragnar Neudorf",
-            "Pealiku_telefon": "6790530, 5026343",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Vahtkustutus 3",
-            "Teenus_4": "Veepaaste 2, 3 ja 4",
-            "Teenus_5": "Metsakustutus 2 ja 3",
-            "Teenus_6": "Nööripääste 2",
-            "Asukoht_N": 59.3097,
-            "Asukoht_E": 24.43537,
-            "__OBJECTID": 14,
-            "Teenus_7": "Päästetöö transport 3 ja 4"
-        }
-    }, {
-        "geometry": {
-            "x": 2756687,
-            "y": 8275044,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kesklinna Paastekomando",
-            "Paastepiirkond": "Ida-Harju",
-            "Koosseis": 53,
-            "Pidevalt_valves": 10,
-            "Aadress": "Raua 2, Tallinn, 10124",
-            "Paastekomando_pealik": "Hengo Metsaru",
-            "Pealiku_telefon": "6282130, 51932736",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Keemiapääste 2",
-            "Teenus_3": "Kõrgustest päästetöö 2",
-            "Asukoht_N": 59.43517,
-            "Asukoht_E": 24.76374,
-            "__OBJECTID": 15,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2453490,
-            "y": 8043890,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kihelkonna Paastekomando",
-            "Paastepiirkond": "Saaremaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Kooli 8, Kihelkonna alevik, 93401",
-            "Paastekomando_pealik": "Tonis Tasane",
-            "Pealiku_telefon": "4545007, 53468799",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2 ja 4",
-            "Asukoht_N": 58.36266,
-            "Asukoht_E": 22.04008,
-            "__OBJECTID": 16,
-            "Teenus_4": "Metsakustustus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2672195,
-            "y": 7995522,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kihnu Paastekomando",
-            "Paastepiirkond": "Parnumaa",
-            "Koosseis": 5,
-            "Pidevalt_valves": 1,
-            "Aadress": "Lemsi k, Kihnu v, 88002",
-            "Paastekomando_pealik": "Ago Laos",
-            "Pealiku_telefon": "5010322",
-            "Teenus": "Tulekustutus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 58.13401,
-            "Asukoht_E": 24.00474,
-            "__OBJECTID": 17,
-            "Teenus_3": null,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2777448,
-            "y": 7998765,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kilingi-Nomme Paastekomando",
-            "Paastepiirkond": "Parnumaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Pargi 4, Kilingi-Nomme, 86304",
-            "Paastekomando_pealik": "Sven Koovit",
-            "Pealiku_telefon": "4452100, 5251076",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Päästetöö transport 2",
-            "Asukoht_N": 58.14939,
-            "Asukoht_E": 24.95024,
-            "__OBJECTID": 18,
-            "Teenus_3": "Metsakustustus 2",
-            "Teenus_4": "Veepääste 2",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3000470,
-            "y": 8257152,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kivioli Paastekomando",
-            "Paastepiirkond": "Ida-Virumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Turu 1, Kivioli, 43125",
-            "Paastekomando_pealik": "Andres Tartu",
-            "Pealiku_telefon": "3357478, 5201084",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veetransport 2",
-            "Teenus_3": "Veepaaste 2",
-            "Asukoht_N": 59.35334,
-            "Asukoht_E": 26.95368,
-            "__OBJECTID": 19,
-            "Teenus_4": "Vahetkustutus 3",
-            "Teenus_5": "Päästetöö toetus 2 (OLME)",
-            "Teenus_6": "Metsakustutus 3",
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2895259,
-            "y": 8171664,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Koeru Paastekomando",
-            "Paastepiirkond": "Jarvamaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Tiigi 7, Koeru alevik, 73001",
-            "Paastekomando_pealik": "Sven Selge",
-            "Pealiku_telefon": "3854374, 5176167",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 58.95962,
-            "Asukoht_E": 26.00855,
-            "__OBJECTID": 20,
-            "Teenus_3": "Metsakustustus 3",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2756047,
-            "y": 8215992,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kohila Paastekomando",
-            "Paastepiirkond": "Raplamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Viljandi mnt 11, Kohila alev, 79804",
-            "Paastekomando_pealik": "Andrus Ostrov",
-            "Pealiku_telefon": "4833523, 56473549",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veepaaste 2",
-            "Asukoht_N": 59.16434,
-            "Asukoht_E": 24.75799,
-            "__OBJECTID": 21,
-            "Teenus_3": "Vee transport 2",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3034253,
-            "y": 8265469,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kohtla-Jarve Paastekomando",
-            "Paastepiirkond": "Ida-Virumaa",
-            "Koosseis": 28,
-            "Pidevalt_valves": 5,
-            "Aadress": "Lai 7, Kohtla-Jarve, 30328",
-            "Paastekomando_pealik": "Kaido Parts",
-            "Pealiku_telefon": "3366438, 5037122",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veetransport 2 ja 4",
-            "Teenus_3": "Keemiapaaste 2",
-            "Teenus_4": "Päästetöö transport 2, 4 ja 5",
-            "Teenus_5": "Naftareostuskorje 2 ja 3",
-            "Teenus_6": "Metsakustutus 2, 3 ja 4",
-            "Teenus_7": null,
-            "Asukoht_N": 59.3914,
-            "Asukoht_E": 27.25716,
-            "__OBJECTID": 22
-        }
-    }, {
-        "geometry": {
-            "x": 2746880,
-            "y": 8279360,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kopli Paastekomando",
-            "Paastepiirkond": "Laane-Harju",
-            "Koosseis": 24,
-            "Pidevalt_valves": 4,
-            "Aadress": "Ankru 12, Tallinn, 11713",
-            "Paastekomando_pealik": "Vladimir Geiman",
-            "Pealiku_telefon": "6676680, 5522613",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Naftareostuskorje 3",
-            "Teenus_3": "Veepaaste 2, 3 ja 4",
-            "Asukoht_N": 59.45488,
-            "Asukoht_E": 24.67564,
-            "__OBJECTID": 23,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2806647,
-            "y": 8216596,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kose Paastekomando",
-            "Paastepiirkond": "Ida-Harju",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Vardja k, Kose v, 75101",
-            "Paastekomando_pealik": "Jaanus Jaago",
-            "Pealiku_telefon": "6061355, 53003134",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2 ja 4",
-            "Teenus_3": "Päästetöö transport 5",
-            "Teenus_4": "Veepaaste 2 ja 3",
-            "Teenus_5": "Metsakustutus 4",
-            "Asukoht_N": 59.16712,
-            "Asukoht_E": 25.21254,
-            "__OBJECTID": 24,
-            "Teenus_6": "Päästetöö toetus 2 (OLME)",
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2952634,
-            "y": 8289882,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kunda Paastekomando",
-            "Paastepiirkond": "Laane-Virumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Staadioni 4, Kunda, 44108",
-            "Paastekomando_pealik": "Heldur Lahne",
-            "Pealiku_telefon": "3221001, 5285821",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veetransport 2",
-            "Asukoht_N": 59.50288,
-            "Asukoht_E": 26.52396,
-            "__OBJECTID": 25,
-            "Teenus_3": "Päästetöö transport 6",
-            "Teenus_4": "Veepääste 4",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2504249,
-            "y": 8021085,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kuressaare Paastekomando",
-            "Paastepiirkond": "Saaremaa",
-            "Koosseis": 27,
-            "Pidevalt_valves": 5,
-            "Aadress": "Transvaali 58,  Kuressaare, 93811",
-            "Paastekomando_pealik": "Arne Kana",
-            "Pealiku_telefon": "4549761, 5114520",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Kõrgustest pääste 2",
-            "Teenus_4": "Naftareostuskorje",
-            "Teenus_5": "Veepaaste 2 ja 3",
-            "Teenus_6": "Päästetöö transpordi teenus 2",
-            "Teenus_7": "Vahtkustutustöö teenus 3",
-            "Asukoht_N": 58.25504,
-            "Asukoht_E": 22.49605,
-            "__OBJECTID": 26
-        }
-    }, {
-        "geometry": {
-            "x": 2535178,
-            "y": 8143624,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kaina Paastekomando",
-            "Paastepiirkond": "Hiiumaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Mae plats 3, Kaina alevik, 92101",
-            "Paastekomando_pealik": "Janno yksik",
-            "Pealiku_telefon": "4636255, 5238706",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2, 3 ja 4",
-            "Teenus_4": "Metsakustutus 2",
-            "Asukoht_N": 58.82949,
-            "Asukoht_E": 22.77389,
-            "__OBJECTID": 27,
-            "Teenus_5": "Päästetöö transport 2",
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2529121,
-            "y": 8179142,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Kardla Paastekomando",
-            "Paastepiirkond": "Hiiumaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Korgessaare mnt 47, Kardla , 92412 , Hiiumaa",
-            "Paastekomando_pealik": "Martin Kommus",
-            "Pealiku_telefon": "4622084, 56462189",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Naftareostuskorje",
-            "Teenus_4": "Veepaaste 2 ja 3",
-            "Asukoht_N": 58.99424,
-            "Asukoht_E": 22.71948,
-            "__OBJECTID": 28,
-            "Teenus_5": "Metsakustutus 3",
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2767529,
-            "y": 8274902,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Lasnamae Paastekomando",
-            "Paastepiirkond": "Ida-Harju",
-            "Koosseis": 27,
-            "Pidevalt_valves": 5,
-            "Aadress": "Osmussaare 2, Tallinn, 13811",
-            "Paastekomando_pealik": "Pavel Kulikov",
-            "Pealiku_telefon": "6287490, 53466206",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veetransport 2, 3 ja 4",
-            "Teenus_3": "Päästetöö toetus 2 (OLME, STAAP, TANKUR)",
-            "Teenus_4": "Metsakustutus 2 ja 4",
-            "Teenus_5": "Vahtkustutus 3",
-            "Asukoht_N": 59.43452,
-            "Asukoht_E": 24.86114,
-            "__OBJECTID": 29,
-            "Teenus_6": "Kõrgustest päästetöö 2",
-            "Teenus_7": "Päästetöö transport 3 ja 5"
-        }
-    }, {
-        "geometry": {
-            "x": 2652443,
-            "y": 8110221,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Lihula Paastekomando",
-            "Paastepiirkond": "Pärnumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Piiri 10, Lihula, 90304",
-            "Paastekomando_pealik": "Mikk Luuk",
-            "Pealiku_telefon": "4778101, 5157566",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2 ja 3",
-            "Teenus_4": "Naftareostus 3",
-            "Asukoht_N": 58.67383,
-            "Asukoht_E": 23.8273,
-            "__OBJECTID": 30,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2751270,
-            "y": 8274361,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Lillekyla Paastekomando",
-            "Paastepiirkond": "Laane-Harju",
-            "Koosseis": 58,
-            "Pidevalt_valves": 10,
-            "Aadress": "Paldiski mnt 47, Tallinn, 10614",
-            "Paastekomando_pealik": "Ivo Remmelga",
-            "Pealiku_telefon": "6678200, 58662459",
-            "Teenus": "Baasteenus 2 meeskonda",
-            "Teenus_2": "Kõrgustest päästetöö 2",
-            "Teenus_3": "Varingupaaste 2",
-            "Teenus_4": "Keemiapaaste 2 ja 3",
-            "Teenus_5": "Päästetöö transport 5",
-            "Teenus_6": null,
-            "Asukoht_N": 59.43205,
-            "Asukoht_E": 24.71508,
-            "__OBJECTID": 31,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2861784,
-            "y": 8308546,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Loksa Paastekomando",
-            "Paastepiirkond": "Ida-Harju",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Kalurite 2A, Loksa, 74805",
-            "Paastekomando_pealik": "Mait Kroonstrom",
-            "Pealiku_telefon": "6031166, 5129082",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2, 3 ja 4",
-            "Asukoht_N": 59.58786,
-            "Asukoht_E": 25.70784,
-            "__OBJECTID": 32,
-            "Teenus_4": "Päästetöö transport 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2879372,
-            "y": 8016948,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Mustla Paastekomando",
-            "Paastepiirkond": "Viljandimaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Posti 52C, Mustla, 69701",
-            "Paastekomando_pealik": "Ruttar Ronimois",
-            "Pealiku_telefon": "4366101, 5220691",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2 ja 3",
-            "Asukoht_N": 58.23548,
-            "Asukoht_E": 25.86584,
-            "__OBJECTID": 33,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2999907,
-            "y": 8148009,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Mustvee Paastekomando",
-            "Paastepiirkond": "Jogevamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Narva 20, Mustvee, 49604",
-            "Paastekomando_pealik": "Taavi Muursepp",
-            "Pealiku_telefon": "7726201, 5261743",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 58.84987,
-            "Asukoht_E": 26.94862,
-            "__OBJECTID": 34,
-            "Teenus_3": "Metsakustutus 3",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2779326,
-            "y": 8285632,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Muuga Paastekomando",
-            "Paastepiirkond": "Ida-Harju",
-            "Koosseis": 27,
-            "Pidevalt_valves": 5,
-            "Aadress": "Veose 1, Maardu, 74115",
-            "Paastekomando_pealik": "Sergei Savin",
-            "Pealiku_telefon": "6319681, 53097430",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veetransport  3 ja4",
-            "Teenus_3": "Vahtkustutus 2 ja 4",
-            "Asukoht_N": 59.4835,
-            "Asukoht_E": 24.96711,
-            "__OBJECTID": 35,
-            "Teenus_4": "Veepässte 2, 3 ja 4",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2962737,
-            "y": 7886130,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Mõniste Paastekomando",
-            "Paastepiirkond": "Võrumaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Moniste depoo, Moniste k, Moniste v, 66002",
-            "Paastekomando_pealik": "Jean Tamm",
-            "Pealiku_telefon": "7891288, 53088272",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 57.61143,
-            "Asukoht_E": 26.61472,
-            "__OBJECTID": 36,
-            "Teenus_3": "Metsakustutus 3",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2719626,
-            "y": 8160492,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Marjamaa Paastekomando",
-            "Paastepiirkond": "Raplamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Parnu mnt 32, Marjamaa alev, 78301",
-            "Paastekomando_pealik": "Einar Klaos",
-            "Pealiku_telefon": "4821212, 53406471",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2, 3  ja 4",
-            "Asukoht_N": 58.90783,
-            "Asukoht_E": 24.43082,
-            "__OBJECTID": 37,
-            "Teenus_3": "Päästetöö toetus (STAAP)",
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3134829,
-            "y": 8262760,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Narva Paastekomando",
-            "Paastepiirkond": "Ida-Virumaa",
-            "Koosseis": 53,
-            "Pidevalt_valves": 10,
-            "Aadress": "Vahtra 3, Narva, 21003",
-            "Paastekomando_pealik": "Denis Duškin",
-            "Pealiku_telefon": "3576100, 5154714",
-            "Teenus": "Baasteenus 2 meeskonda",
-            "Teenus_2": "Kõrgustest päästetöö 2",
-            "Teenus_3": "Veepaaste 2 ja 3",
-            "Teenus_4": "Metsakustutus 2 ja 3",
-            "Teenus_5": "Päästetöö transport 3",
-            "Asukoht_N": 59.37901,
-            "Asukoht_E": 28.16065,
-            "__OBJECTID": 38,
-            "Teenus_6": "Vahtkustutus 3",
-            "Teenus_7": "Veetransport 4"
-        }
-    }, {
-        "geometry": {
-            "x": 3121922,
-            "y": 8281161,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Narva-Joesuu Paastekomando",
-            "Paastepiirkond": "Ida-Virumaa",
-            "Koosseis": 19,
-            "Pidevalt_valves": 3,
-            "Aadress": "Koidu 3, Narva-Joesuu, 29023",
-            "Paastekomando_pealik": "Heino Berggren",
-            "Pealiku_telefon": "3577010, 53611598",
-            "Teenus": "Baasteenus",
-            "Asukoht_N": 59.4631,
-            "Asukoht_E": 28.0447,
-            "__OBJECTID": 39,
-            "Teenus_2": null,
-            "Teenus_3": null,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2747796,
-            "y": 8264601,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Nomme Paastekomando",
-            "Paastepiirkond": "Laane-Harju",
-            "Koosseis": 47,
-            "Pidevalt_valves": 8,
-            "Aadress": "Jaama 4, Tallinn, 11621",
-            "Paastekomando_pealik": "Marek Danilson",
-            "Pealiku_telefon": "5114062",
-            "Teenus": "Baasteenus 2 meeskonda",
-            "Teenus_2": "Veepaaste 2 ja 3",
-            "Teenus_3": "Metsakustutus 2",
-            "Asukoht_N": 59.38743,
-            "Asukoht_E": 24.68387,
-            "__OBJECTID": 40,
-            "Teenus_4": "Päästetöö transport 2",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2637910,
-            "y": 8228221,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Nova Paastekomando",
-            "Paastepiirkond": "Laanemaa",
-            "Koosseis": 11,
-            "Pidevalt_valves": 2,
-            "Aadress": "Pritsumaja, Nova k, Nova v, 91101",
-            "Paastekomando_pealik": "Janno Osa (KT)",
-            "Pealiku_telefon": "56632415",
-            "Teenus": "Tulekustutus",
-            "Teenus_2": null,
-            "Asukoht_N": 59.2206,
-            "Asukoht_E": 23.69675,
-            "__OBJECTID": 41,
-            "Teenus_3": null,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2569951,
-            "y": 8085751,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Orissaare Paastekomando",
-            "Paastepiirkond": "Saaremaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Kaluri 1, Orissaare alevik, 94601",
-            "Paastekomando_pealik": "Peeter Rumm",
-            "Pealiku_telefon": "4531269, 5182750",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2, 3 ja 4",
-            "Asukoht_N": 58.55936,
-            "Asukoht_E": 23.08626,
-            "__OBJECTID": 42,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2949582,
-            "y": 7979362,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Otepaa Paastekomando",
-            "Paastepiirkond": "Valgamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Lipuvaljak 22, Otepaa, 67403",
-            "Paastekomando_pealik": "Gehrt Kompus",
-            "Pealiku_telefon": "7661112, 5273760",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2 ja 3",
-            "Asukoht_N": 58.05729,
-            "Asukoht_E": 26.49655,
-            "__OBJECTID": 43,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2845562,
-            "y": 8155646,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Paide Paastekomando",
-            "Paastepiirkond": "Jarvamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Pollu 23, Paide, 72712",
-            "Paastekomando_pealik": "Ilmar Koppel",
-            "Pealiku_telefon": "3848817, 51986188",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2, 3 ja 4",
-            "Teenus_3": "Metsakustustus 2",
-            "Asukoht_N": 58.88534,
-            "Asukoht_E": 25.56212,
-            "__OBJECTID": 44,
-            "Teenus_4": "Päästetöö transport 2,4 ja 5",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2680155,
-            "y": 8257563,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Paldiski Paastekomando",
-            "Paastepiirkond": "Laane-Harju",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Sadama 39, Paldiski, 76806",
-            "Paastekomando_pealik": "Martti Eerma",
-            "Pealiku_telefon": "6741016, 53023004",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veepaaste 2, 3 ja 4",
-            "Asukoht_N": 59.35522,
-            "Asukoht_E": 24.07624,
-            "__OBJECTID": 45,
-            "Teenus_3": "Päästetöö transport 2",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2765301,
-            "y": 8282303,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Pirita Paastekomando",
-            "Paastepiirkond": "Ida-Harju",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Kloostrimetsa tee 22, Tallinn, 11911",
-            "Paastekomando_pealik": "Priit Jõgisoo",
-            "Pealiku_telefon": "6287490, 5263553",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veepaaste 2 ja 3",
-            "Teenus_3": "Metsakustutus 2",
-            "Asukoht_N": 59.46831,
-            "Asukoht_E": 24.84112,
-            "__OBJECTID": 46,
-            "Teenus_4": "Veetransport 3 ja 4",
-            "Teenus_5": "Päästetöö transport 2 ja 6",
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2891073,
-            "y": 8107966,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Poltsamaa Paastekomando",
-            "Paastepiirkond": "Jogevamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Pajusi mnt 37A, Poltsamaa, 48106",
-            "Paastekomando_pealik": "Peeter Randoja",
-            "Pealiku_telefon": "7769781, 5151112",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 58.6633,
-            "Asukoht_E": 25.97095,
-            "__OBJECTID": 47,
-            "Teenus_3": "Metsakustustus 3",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3016350,
-            "y": 7980850,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Polva Paastekomando",
-            "Paastepiirkond": "Polvamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Lao 17, Polva, 63308",
-            "Paastekomando_pealik": "August Pakk",
-            "Pealiku_telefon": "7998606, 5121781",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2",
-            "Teenus_4": "Metsakustutus 2 ja 3",
-            "Teenus_5": "Päästetöö transport 2",
-            "Asukoht_N": 58.06436,
-            "Asukoht_E": 27.09633,
-            "__OBJECTID": 48,
-            "Teenus_6": "Vahtkustutus 3",
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2728286,
-            "y": 8049015,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Parnu Paastekomando",
-            "Paastepiirkond": "Parnumaa",
-            "Koosseis": 48,
-            "Pidevalt_valves": 10,
-            "Aadress": "Pikk 20A, Parnu, 80010",
-            "Paastekomando_pealik": "Jaanus Saar",
-            "Pealiku_telefon": "4447838, 5011558",
-            "Teenus": "Baasteenus 2 meeskonda",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Kõrgustest pääste 2",
-            "Teenus_4": "Keemiapääste 2",
-            "Teenus_5": "Veepaaste 2, 3 ja 4",
-            "Teenus_6": "Metsakustutus 2",
-            "Teenus_7": "Vahtkustutus 3; Päästetöö transport 3",
-            "Asukoht_N": 58.3868,
-            "Asukoht_E": 24.50861,
-            "__OBJECTID": 49
-        }
-    }, {
-        "geometry": {
-            "x": 2727782,
-            "y": 8096496,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Parnu-Jaagupi Paastekomando",
-            "Paastepiirkond": "Parnumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Soo 2, Parnu-Jaagupi alev, 87201",
-            "Paastekomando_pealik": "Raul Toome",
-            "Pealiku_telefon": "4459724, 53846732",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2 ja 4",
-            "Teenus_3": "Veepaaste 2",
-            "Teenus_4": "Metsakustutus 4",
-            "Asukoht_N": 58.60967,
-            "Asukoht_E": 24.50408,
-            "__OBJECTID": 50,
-            "Teenus_5": "Päästetöö toetus (OLME)",
-            "Teenus_6": "Päästetöö transport 5",
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2932870,
-            "y": 8256360,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Rakvere Paastekomando",
-            "Paastepiirkond": "Laane-Virumaa",
-            "Koosseis": 32,
-            "Pidevalt_valves": 6,
-            "Aadress": "FR. R. Kreutzwaldi 5A, Rakvere, 44314",
-            "Paastekomando_pealik": "Mati Väljaots",
-            "Pealiku_telefon": "3222710, 5182354",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veetransport 2, 3 ja 4",
-            "Teenus_3": "Kõrgustest päästetöö 2",
-            "Teenus_4": "Päästetöö toetus 2 (STAAP, TANKUR)",
-            "Teenus_5": "Veepaaste 2",
-            "Teenus_6": "Metsakustutus 2 ja 4",
-            "Asukoht_N": 59.34971,
-            "Asukoht_E": 26.34642,
-            "__OBJECTID": 51,
-            "Teenus_7": "Päästetöö transport 2, 3, 4 ja 5"
-        }
-    }, {
-        "geometry": {
-            "x": 2758904,
-            "y": 8181686,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Rapla Paastekomando",
-            "Paastepiirkond": "Raplamaa",
-            "Koosseis": 26,
-            "Pidevalt_valves": 4,
-            "Aadress": "Kevade 10, Sulupere k, Rapla v, 79529",
-            "Paastekomando_pealik": "Tauno Sau",
-            "Pealiku_telefon": "4892002, 59191010",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2, 3 ja 4",
-            "Teenus_3": "Kõrgustest pääste 2",
-            "Teenus_4": "Metsakustutus 2",
-            "Asukoht_N": 59.00601,
-            "Asukoht_E": 24.78366,
-            "__OBJECTID": 52,
-            "Teenus_5": "Päästetöö toetus (STAAP ja TANKURHAAGIS)",
-            "Teenus_6": "Päästetöö transport 2 ja 5",
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2678969,
-            "y": 8180218,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Risti Paastekomando",
-            "Paastepiirkond": "Laanemaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Tallinna mnt 15 B, Risti alevik, 90901",
-            "Paastekomando_pealik": "Marko Sultsing",
-            "Pealiku_telefon": "4761292, 5170856",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2",
-            "Teenus_4": "Metsakustutus 2",
-            "Asukoht_N": 58.99922,
-            "Asukoht_E": 24.06559,
-            "__OBJECTID": 53,
-            "Teenus_5": "Transpordi teenus 5",
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2587783,
-            "y": 7925011,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Ruhnu Paastekomando",
-            "Paastepiirkond": "Saaremaa",
-            "Koosseis": 1,
-            "Pidevalt_valves": 1,
-            "Aadress": "Ruhnu k, Ruhnu v, 93001",
-            "Paastekomando_pealik": "Heiki Kukk - paastja",
-            "Pealiku_telefon": "53009510",
-            "Teenus": "Tulekustutus",
-            "Asukoht_N": 57.79804,
-            "Asukoht_E": 23.24645,
-            "__OBJECTID": 54,
-            "Teenus_2": "Veetransport 2",
-            "Teenus_3": "Metsakustustus 3",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3056567,
-            "y": 7987911,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Rapina Paastekomando",
-            "Paastepiirkond": "Polvamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Rahu 1 C, Rapina, 64505",
-            "Paastekomando_pealik": "Kuldar Kase",
-            "Pealiku_telefon": "7962897, 5112890",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2",
-            "Asukoht_N": 58.0979,
-            "Asukoht_E": 27.45761,
-            "__OBJECTID": 55,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3088713,
-            "y": 8267388,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Sillamae Paastekomando",
-            "Paastepiirkond": "Ida-Virumaa",
-            "Koosseis": 32,
-            "Pidevalt_valves": 6,
-            "Aadress": "Kesk 1A, Sillamae, 40231",
-            "Paastekomando_pealik": "Sergei Petrov",
-            "Pealiku_telefon": "3277050, 53059675",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Veetransport 2",
-            "Teenus_3": "Keemiapaaste 2",
-            "Teenus_4": "Veepaaste 2, 3 ja 4",
-            "Asukoht_N": 59.40018,
-            "Asukoht_E": 27.74638,
-            "__OBJECTID": 56,
-            "Teenus_5": "Metsakustutus 2",
-            "Teenus_6": "Päästetöö transport 2",
-            "Teenus_7": "Vahtkustutus 3"
-        }
-    }, {
-        "geometry": {
-            "x": 2834651,
-            "y": 8079134,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Suure-Jaani Paastekomando",
-            "Paastepiirkond": "Viljandimaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Oja  2 B,  Suure-Jaani, 71503",
-            "Paastekomando_pealik": "Rauno Ruut",
-            "Pealiku_telefon": "4372112, 53012632",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2",
-            "Asukoht_N": 58.52834,
-            "Asukoht_E": 25.4641,
-            "__OBJECTID": 57,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2960895,
-            "y": 8083199,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Tabivere Paastekomando",
-            "Paastepiirkond": "Tartumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Same tee 1, Tabivere alevik, 49101",
-            "Paastekomando_pealik": "Imre Toekalju",
-            "Pealiku_telefon": "7736601, 5279668",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2 ja 3",
-            "Asukoht_N": 58.5474,
-            "Asukoht_E": 26.59817,
-            "__OBJECTID": 58,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": "vahtkustutus 3",
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2890212,
-            "y": 8236916,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Tapa Paastekomando",
-            "Paastepiirkond": "Laane-Virumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Pikk 18A, Tapa,  45106",
-            "Paastekomando_pealik": "Aron Jaanis",
-            "Pealiku_telefon": "3271100, 55677067",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2",
-            "Asukoht_N": 59.26055,
-            "Asukoht_E": 25.96322,
-            "__OBJECTID": 59,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2975627,
-            "y": 8046348,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Tartu Paastekomando",
-            "Paastepiirkond": "Tartumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Kalevi 20 A, Tartu,  51010",
-            "Paastekomando_pealik": "Igor Galjutin",
-            "Pealiku_telefon": "7343099, 53303446",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Päästetöö transport 2 ja 6",
-            "Teenus_3": "Naftareostuskorje 3",
-            "Teenus_4": "Veepaaste 2",
-            "Teenus_5": "Vahtkustustus 3",
-            "Asukoht_N": 58.37424,
-            "Asukoht_E": 26.73051,
-            "__OBJECTID": 60,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2885761,
-            "y": 7967647,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Torva Paastekomando",
-            "Paastepiirkond": "Valgamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Metsa 1A, Torva, 68605",
-            "Paastekomando_pealik": "Alor Kasepold",
-            "Pealiku_telefon": "7632155, 5170447",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2 ja 3",
-            "Asukoht_N": 58.00157,
-            "Asukoht_E": 25.92323,
-            "__OBJECTID": 61,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2671063,
-            "y": 8037995,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Tostamaa Paastekomando",
-            "Paastepiirkond": "Parnumaa",
-            "Koosseis": 11,
-            "Pidevalt_valves": 2,
-            "Aadress": "Parnu mnt 2 A,Tostamaa alevik,  88101",
-            "Paastekomando_pealik": "Mait Janson",
-            "Pealiku_telefon": "4496132, 53482101",
-            "Teenus": "Tulekustutus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 4",
-            "Asukoht_N": 58.33487,
-            "Asukoht_E": 23.99457,
-            "__OBJECTID": 62,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2830919,
-            "y": 8139264,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Tyri Paastekomando",
-            "Paastepiirkond": "Jarvamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Ferdinand Johann Wiedemanni 2, Tyri, 72210",
-            "Paastekomando_pealik": "Eilo Eesmae",
-            "Pealiku_telefon": "3851222, 5083899",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2, 3 ja 4",
-            "Teenus_3": "Veepaaste 2",
-            "Asukoht_N": 58.80921,
-            "Asukoht_E": 25.43058,
-            "__OBJECTID": 63,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2901005,
-            "y": 7922225,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Valga Paastekomando",
-            "Paastepiirkond": "Valgamaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Karja 16, Valga, 68207",
-            "Paastekomando_pealik": "Raivo Pavlovitsh",
-            "Pealiku_telefon": "7669720, 53408612",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2, 3 ja 4",
-            "Teenus_3": "Veepaaste 2",
-            "Asukoht_N": 57.7847,
-            "Asukoht_E": 26.06017,
-            "__OBJECTID": 64,
-            "Teenus_4": "Metsakustutus 3",
-            "Teenus_5": "Päästetöö transport 3",
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3035676.8666055338,
-            "y": 7910991.617202363,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Vastseliina Paastekomando",
-            "Paastepiirkond": "Vorumaa",
-            "Koosseis": 17,
-            "Pidevalt_valves": 3,
-            "Aadress": "Pätisilla tee 6, Vastseliina alevik, 65201",
-            "Paastekomando_pealik": "Aivar Lai",
-            "Pealiku_telefon": "7851001, 5242920",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": null,
-            "Asukoht_N": 57.73391,
-            "Asukoht_E": 27.270011,
-            "__OBJECTID": 65,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2847795,
-            "y": 8043582,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Viljandi Paastekomando",
-            "Paastepiirkond": "Viljandimaa",
-            "Koosseis": 28,
-            "Pidevalt_valves": 5,
-            "Aadress": "Riia mnt 6, Viljandi, 71020",
-            "Paastekomando_pealik": "Mait Murk",
-            "Pealiku_telefon": "4354522, 5233137",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Veepaaste 2 ja 3",
-            "Teenus_4": "Metsakustutus 2 ja 3",
-            "Asukoht_N": 58.36121,
-            "Asukoht_E": 25.58218,
-            "__OBJECTID": 66,
-            "Teenus_5": "Päästetöö transport 3",
-            "Teenus_6": "Kõrgustest päästetöö 2",
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2587821.3753104373,
-            "y": 8178138.143449611,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Vormsi Paastekomando",
-            "Paastepiirkond": "Laanemaa",
-            "Koosseis": 4,
-            "Pidevalt_valves": 1,
-            "Aadress": "Hullo, Vormsi v, 91301",
-            "Paastekomando_pealik": "Kaido Valm",
-            "Teenus": "Tulekustutus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 58.98915,
-            "Asukoht_E": 23.24618,
-            "__OBJECTID": 67,
-            "Pealiku_telefon": "53001306",
-            "Teenus_3": "Metsakustustus 3",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3008128,
-            "y": 7934695,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Võru Paastekomando",
-            "Paastepiirkond": "Võrumaa",
-            "Koosseis": 27,
-            "Pidevalt_valves": 5,
-            "Aadress": "Rapina mnt 20 A, Voru, 65606",
-            "Paastekomando_pealik": "Erki Land",
-            "Pealiku_telefon": "7827121, 5231817",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Teenus_3": "Metsakustustus 3",
-            "Teenus_4": "Veepaaste 2 ja 3",
-            "Asukoht_N": 57.84437,
-            "Asukoht_E": 27.02247,
-            "__OBJECTID": 68,
-            "Teenus_5": "Kõrgustest pääste 2",
-            "Teenus_6": "Päästetöö transport 3",
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2920585,
-            "y": 8204922,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Vaike-Maarja Paastekomando",
-            "Paastepiirkond": "Laane-Virumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Ebavere, Vaike-Maarja alevik, 46209",
-            "Paastekomando_pealik": "Mati Koiv",
-            "Pealiku_telefon": "3261801, 5201321",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 59.11333,
-            "Asukoht_E": 26.23606,
-            "__OBJECTID": 69,
-            "Teenus_3": "Päästetöö transport 2",
-            "Teenus_4": "Metsakustutus 2",
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 2783046.838344719,
-            "y": 8105795.788141113,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Vandra Paastekomando",
-            "Paastepiirkond": "Parnumaa",
-            "Koosseis": 22,
-            "Pidevalt_valves": 4,
-            "Aadress": "Allikõnnu küla, Põhja-Pärnumaa vald,  87604",
-            "Paastekomando_pealik": "Rein Kontus",
-            "Pealiku_telefon": "4464554, 53000122",
-            "Teenus": "Baasteenus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 58.653248,
-            "Asukoht_E": 25.000206,
-            "__OBJECTID": 70,
-            "Teenus_3": null,
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }, {
-        "geometry": {
-            "x": 3076098,
-            "y": 7958838,
-            "spatialReference": {
-                "wkid": 102100
-            }
-        },
-        "attributes": {
-            "Paastekomando_nimetus": "Värska Paastekomando",
-            "Paastepiirkond": "Võrumaa",
-            "Koosseis": 11,
-            "Pidevalt_valves": 2,
-            "Aadress": "Jarvesuu 11, Varska alevik, 64001",
-            "Paastekomando_pealik": "Raivo Kunst",
-            "Pealiku_telefon": "7964747, 5290218",
-            "Teenus": "Tulekustutus",
-            "Teenus_2": "Vee transport 2",
-            "Asukoht_N": 57.95961,
-            "Asukoht_E": 27.63306,
-            "__OBJECTID": 71,
-            "Teenus_3": "Metsakustutus 3",
-            "Teenus_4": null,
-            "Teenus_5": null,
-            "Teenus_6": null,
-            "Teenus_7": null
-        }
-    }]
-}
+[{
+    "geometry": {
+        "x": 2822765,
+        "y": 7993894,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Abja-Paluoja Paastekomando",
+        "Paastepiirkond": "Viljandimaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Kooli 1, Abja-Paluoja, 69402",
+        "Paastekomando_pealik": "Aimar Sikka",
+        "Pealiku_telefon": "4360112, 5521069",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Metsakustutus 2 ja 3",
+        "Asukoht_N": 58.12629,
+        "Asukoht_E": 25.35733,
+        "__OBJECTID": 0,
+        "Teenus_4": "Päästetöö transport 2",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3020255,
+        "y": 8094780,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Alatskivi Paastekomando",
+        "Paastepiirkond": "Tartumaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Lossi 3, Alatskivi alevik, Alatskivi v, 60201",
+        "Paastekomando_pealik": "Varmo Laumets",
+        "Pealiku_telefon": "7453784, 5038018",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2",
+        "Asukoht_N": 58.60164,
+        "Asukoht_E": 27.13141,
+        "__OBJECTID": 1,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2980385,
+        "y": 8047233,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Annelinna Paastekomando",
+        "Paastepiirkond": "Tartumaa",
+        "Koosseis": 58,
+        "Pidevalt_valves": 10,
+        "Aadress": "Jaama 207, Tartu linn, 50705",
+        "Paastekomando_pealik": "Jaano Maask",
+        "Pealiku_telefon": "7337334, 5028342",
+        "Teenus": "Baasteenus 2 meeskonda",
+        "Teenus_2": "Kõrgustest pääste 2",
+        "Teenus_3": "Keemiapaaste 2",
+        "Teenus_4": "Päästetöö transport 3 ja 5",
+        "Teenus_5": "Veepaaste 2 ja 3",
+        "Teenus_6": "Metsakustutus 2",
+        "Teenus_7": "Päästetöö toetus (STAAP, OLME, TANKUR), Vee transport 2",
+        "Asukoht_N": 58.37841,
+        "Asukoht_E": 26.77325,
+        "__OBJECTID": 2
+    }
+}, {
+    "geometry": {
+        "x": 2955104,
+        "y": 7932382,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Antsla Paastekomando",
+        "Paastepiirkond": "Vorumaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Meistripunkti, Kraavi kyla, Antsla vald, 66409",
+        "Paastekomando_pealik": "Toomas Sloog",
+        "Pealiku_telefon": "7855501, 5052101",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2 ja 3",
+        "Asukoht_N": 57.83331,
+        "Asukoht_E": 26.54615,
+        "__OBJECTID": 3,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2865557,
+        "y": 8208824,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Aravete Paastekomando",
+        "Paastepiirkond": "Jarvamaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Toostuse tee 3, Aravete alevik, Ambla v, 73501",
+        "Paastekomando_pealik": "Janno Rodendau (KT)",
+        "Pealiku_telefon": "3832361, 5100544",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 59.13132,
+        "Asukoht_E": 25.74174,
+        "__OBJECTID": 4,
+        "Teenus_3": null,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2766849,
+        "y": 8261773,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Assaku Paastekomando",
+        "Paastepiirkond": "Laane-Harju",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Jarve tee 3, Assaku alevik, Rae v, 75301",
+        "Paastekomando_pealik": "Leho Lõiv",
+        "Pealiku_telefon": "5184208",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Päästetöö transport 2",
+        "Asukoht_N": 59.37449,
+        "Asukoht_E": 24.85503,
+        "__OBJECTID": 5,
+        "Teenus_3": null,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2940935,
+        "y": 8016521,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Elva Paastekomando",
+        "Paastepiirkond": "Tartumaa",
+        "Koosseis": 27,
+        "Pidevalt_valves": 5,
+        "Aadress": "Kirde 14, Elva linn, 61506",
+        "Paastekomando_pealik": "Andres  Smirnov",
+        "Pealiku_telefon": "7367897, 5159520",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2, 3 ja 4",
+        "Teenus_3": "Päästetöö transport 4 ja 5",
+        "Teenus_4": "Veepaaste 3",
+        "Teenus_5": "Metsakustutus 3 ja 4",
+        "Asukoht_N": 58.23346,
+        "Asukoht_E": 26.41887,
+        "__OBJECTID": 6,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2621774,
+        "y": 8165074,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Haapsalu Paastekomando",
+        "Paastepiirkond": "Laanemaa",
+        "Koosseis": 27,
+        "Pidevalt_valves": 4,
+        "Aadress": "Toostuse 19, Haapsalu, 90510",
+        "Paastekomando_pealik": "Andres Kaljura",
+        "Pealiku_telefon": "4725106, 5068525",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Toetusteenus 2",
+        "Teenus_4": "Naftareostuskorje 3",
+        "Teenus_5": "Veepaaste 2 ja 3",
+        "Teenus_6": "Metsakustutus 2 ja 4",
+        "Asukoht_N": 58.92908,
+        "Asukoht_E": 23.5518,
+        "__OBJECTID": 7,
+        "Teenus_7": "Päästetöö transport 3, 4 , 5 ja 6"
+    }
+}, {
+    "geometry": {
+        "x": 2726955.049215132,
+        "y": 7984710.049215131,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Haademeeste Paastekomando",
+        "Paastepiirkond": "Parnumaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Aiandi 4, Haademeeste, 86001",
+        "Paastekomando_pealik": "Enno Teor",
+        "Pealiku_telefon": "4498100, 56613911",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2, 3 ja 4",
+        "Asukoht_N": 58.08375,
+        "Asukoht_E": 24.49864,
+        "__OBJECTID": 8,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3040391,
+        "y": 8200623,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Iisaku Paastekomando",
+        "Paastepiirkond": "Ida-Virumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Vilkuri 1, Iisaku alevik, 41101",
+        "Paastekomando_pealik": "Hans Karp",
+        "Pealiku_telefon": "3393308, 53411677",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Metsakustutus 3 ja 4",
+        "Teenus_3": "Päästetöö transport 2 ja 5",
+        "Teenus_4": "Veetransport 2, 3 ja 4",
+        "Asukoht_N": 59.0935,
+        "Asukoht_E": 27.3123,
+        "__OBJECTID": 9,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2937098,
+        "y": 8125558,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Jogeva Paastekomando",
+        "Paastepiirkond": "Jogevamaa",
+        "Koosseis": 27,
+        "Pidevalt_valves": 5,
+        "Aadress": "Aia 36 Jogeva, 48307",
+        "Paastekomando_pealik": "Hannes Nigulas",
+        "Pealiku_telefon": "7768319, 5261744",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Päästetöö transport 2, 4 ja 5",
+        "Teenus_4": "Veepaaste 2 ja 3",
+        "Asukoht_N": 58.74539,
+        "Asukoht_E": 26.3844,
+        "__OBJECTID": 10,
+        "Teenus_5": "Metsakustutus 2 ja 3",
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3051092,
+        "y": 8259426,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Johvi Paastekomando",
+        "Paastepiirkond": "Ida-Virumaa",
+        "Koosseis": 47,
+        "Pidevalt_valves": 8,
+        "Aadress": "Rahu 38, Johvi, 41532",
+        "Paastekomando_pealik": "Jarmo Juhanson",
+        "Pealiku_telefon": "3391936, 55677470",
+        "Teenus": "Baasteenus 2 meeskonda",
+        "Teenus_2": "Kõrgustest päästetöö 2",
+        "Teenus_3": "Metsakustutus 2",
+        "Teenus_4": "Nööripääste 2",
+        "Teenus_5": "Päästetöö transport 2, 3 ja 5",
+        "Teenus_6": "Veepääste 2 ja 4",
+        "Teenus_7": "Veetransport 2",
+        "Asukoht_N": 59.36375,
+        "Asukoht_E": 27.40843,
+        "__OBJECTID": 11
+    }
+}, {
+    "geometry": {
+        "x": 2762381,
+        "y": 8133222,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Jarvakandi Paastekomando",
+        "Paastepiirkond": "Raplamaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Tehaste 18, Jarvakandi, 79101",
+        "Paastekomando_pealik": "Marko Matson",
+        "Pealiku_telefon": "4877301, 5289261",
+        "Teenus": "Baasteenus",
+        "Asukoht_N": 58.78109,
+        "Asukoht_E": 24.81489,
+        "__OBJECTID": 12,
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": null,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2820120,
+        "y": 8251625,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kehra Paastekomando",
+        "Paastepiirkond": "Ida-Harju",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Kooli 16, Kehra, 74306",
+        "Paastekomando_pealik": "Aivar Kari",
+        "Pealiku_telefon": "6085001, 5110716",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2",
+        "Teenus_4": "Metsakustutus 2",
+        "Asukoht_N": 59.32802,
+        "Asukoht_E": 25.33357,
+        "__OBJECTID": 13,
+        "Teenus_5": "Päästetöö transport 4",
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2720133,
+        "y": 8247628,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Keila Paastekomando",
+        "Paastepiirkond": "Laane-Harju",
+        "Koosseis": 27,
+        "Pidevalt_valves": 5,
+        "Aadress": "ylejoe tee 2 A, Keila, 76603",
+        "Paastekomando_pealik": "Ragnar Neudorf",
+        "Pealiku_telefon": "6790530, 5026343",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Vahtkustutus 3",
+        "Teenus_4": "Veepaaste 2, 3 ja 4",
+        "Teenus_5": "Metsakustutus 2 ja 3",
+        "Teenus_6": "Nööripääste 2",
+        "Asukoht_N": 59.3097,
+        "Asukoht_E": 24.43537,
+        "__OBJECTID": 14,
+        "Teenus_7": "Päästetöö transport 3 ja 4"
+    }
+}, {
+    "geometry": {
+        "x": 2756687,
+        "y": 8275044,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kesklinna Paastekomando",
+        "Paastepiirkond": "Ida-Harju",
+        "Koosseis": 53,
+        "Pidevalt_valves": 10,
+        "Aadress": "Raua 2, Tallinn, 10124",
+        "Paastekomando_pealik": "Hengo Metsaru",
+        "Pealiku_telefon": "6282130, 51932736",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Keemiapääste 2",
+        "Teenus_3": "Kõrgustest päästetöö 2",
+        "Asukoht_N": 59.43517,
+        "Asukoht_E": 24.76374,
+        "__OBJECTID": 15,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2453490,
+        "y": 8043890,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kihelkonna Paastekomando",
+        "Paastepiirkond": "Saaremaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Kooli 8, Kihelkonna alevik, 93401",
+        "Paastekomando_pealik": "Tonis Tasane",
+        "Pealiku_telefon": "4545007, 53468799",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2 ja 4",
+        "Asukoht_N": 58.36266,
+        "Asukoht_E": 22.04008,
+        "__OBJECTID": 16,
+        "Teenus_4": "Metsakustustus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2672195,
+        "y": 7995522,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kihnu Paastekomando",
+        "Paastepiirkond": "Parnumaa",
+        "Koosseis": 5,
+        "Pidevalt_valves": 1,
+        "Aadress": "Lemsi k, Kihnu v, 88002",
+        "Paastekomando_pealik": "Ago Laos",
+        "Pealiku_telefon": "5010322",
+        "Teenus": "Tulekustutus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 58.13401,
+        "Asukoht_E": 24.00474,
+        "__OBJECTID": 17,
+        "Teenus_3": null,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2777448,
+        "y": 7998765,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kilingi-Nomme Paastekomando",
+        "Paastepiirkond": "Parnumaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Pargi 4, Kilingi-Nomme, 86304",
+        "Paastekomando_pealik": "Sven Koovit",
+        "Pealiku_telefon": "4452100, 5251076",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Päästetöö transport 2",
+        "Asukoht_N": 58.14939,
+        "Asukoht_E": 24.95024,
+        "__OBJECTID": 18,
+        "Teenus_3": "Metsakustustus 2",
+        "Teenus_4": "Veepääste 2",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3000470,
+        "y": 8257152,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kivioli Paastekomando",
+        "Paastepiirkond": "Ida-Virumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Turu 1, Kivioli, 43125",
+        "Paastekomando_pealik": "Andres Tartu",
+        "Pealiku_telefon": "3357478, 5201084",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veetransport 2",
+        "Teenus_3": "Veepaaste 2",
+        "Asukoht_N": 59.35334,
+        "Asukoht_E": 26.95368,
+        "__OBJECTID": 19,
+        "Teenus_4": "Vahetkustutus 3",
+        "Teenus_5": "Päästetöö toetus 2 (OLME)",
+        "Teenus_6": "Metsakustutus 3",
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2895259,
+        "y": 8171664,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Koeru Paastekomando",
+        "Paastepiirkond": "Jarvamaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Tiigi 7, Koeru alevik, 73001",
+        "Paastekomando_pealik": "Sven Selge",
+        "Pealiku_telefon": "3854374, 5176167",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 58.95962,
+        "Asukoht_E": 26.00855,
+        "__OBJECTID": 20,
+        "Teenus_3": "Metsakustustus 3",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2756047,
+        "y": 8215992,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kohila Paastekomando",
+        "Paastepiirkond": "Raplamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Viljandi mnt 11, Kohila alev, 79804",
+        "Paastekomando_pealik": "Andrus Ostrov",
+        "Pealiku_telefon": "4833523, 56473549",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veepaaste 2",
+        "Asukoht_N": 59.16434,
+        "Asukoht_E": 24.75799,
+        "__OBJECTID": 21,
+        "Teenus_3": "Vee transport 2",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3034253,
+        "y": 8265469,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kohtla-Jarve Paastekomando",
+        "Paastepiirkond": "Ida-Virumaa",
+        "Koosseis": 28,
+        "Pidevalt_valves": 5,
+        "Aadress": "Lai 7, Kohtla-Jarve, 30328",
+        "Paastekomando_pealik": "Kaido Parts",
+        "Pealiku_telefon": "3366438, 5037122",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veetransport 2 ja 4",
+        "Teenus_3": "Keemiapaaste 2",
+        "Teenus_4": "Päästetöö transport 2, 4 ja 5",
+        "Teenus_5": "Naftareostuskorje 2 ja 3",
+        "Teenus_6": "Metsakustutus 2, 3 ja 4",
+        "Teenus_7": null,
+        "Asukoht_N": 59.3914,
+        "Asukoht_E": 27.25716,
+        "__OBJECTID": 22
+    }
+}, {
+    "geometry": {
+        "x": 2746880,
+        "y": 8279360,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kopli Paastekomando",
+        "Paastepiirkond": "Laane-Harju",
+        "Koosseis": 24,
+        "Pidevalt_valves": 4,
+        "Aadress": "Ankru 12, Tallinn, 11713",
+        "Paastekomando_pealik": "Vladimir Geiman",
+        "Pealiku_telefon": "6676680, 5522613",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Naftareostuskorje 3",
+        "Teenus_3": "Veepaaste 2, 3 ja 4",
+        "Asukoht_N": 59.45488,
+        "Asukoht_E": 24.67564,
+        "__OBJECTID": 23,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2806647,
+        "y": 8216596,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kose Paastekomando",
+        "Paastepiirkond": "Ida-Harju",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Vardja k, Kose v, 75101",
+        "Paastekomando_pealik": "Jaanus Jaago",
+        "Pealiku_telefon": "6061355, 53003134",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2 ja 4",
+        "Teenus_3": "Päästetöö transport 5",
+        "Teenus_4": "Veepaaste 2 ja 3",
+        "Teenus_5": "Metsakustutus 4",
+        "Asukoht_N": 59.16712,
+        "Asukoht_E": 25.21254,
+        "__OBJECTID": 24,
+        "Teenus_6": "Päästetöö toetus 2 (OLME)",
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2952634,
+        "y": 8289882,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kunda Paastekomando",
+        "Paastepiirkond": "Laane-Virumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Staadioni 4, Kunda, 44108",
+        "Paastekomando_pealik": "Heldur Lahne",
+        "Pealiku_telefon": "3221001, 5285821",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veetransport 2",
+        "Asukoht_N": 59.50288,
+        "Asukoht_E": 26.52396,
+        "__OBJECTID": 25,
+        "Teenus_3": "Päästetöö transport 6",
+        "Teenus_4": "Veepääste 4",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2504249,
+        "y": 8021085,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kuressaare Paastekomando",
+        "Paastepiirkond": "Saaremaa",
+        "Koosseis": 27,
+        "Pidevalt_valves": 5,
+        "Aadress": "Transvaali 58,  Kuressaare, 93811",
+        "Paastekomando_pealik": "Arne Kana",
+        "Pealiku_telefon": "4549761, 5114520",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Kõrgustest pääste 2",
+        "Teenus_4": "Naftareostuskorje",
+        "Teenus_5": "Veepaaste 2 ja 3",
+        "Teenus_6": "Päästetöö transpordi teenus 2",
+        "Teenus_7": "Vahtkustutustöö teenus 3",
+        "Asukoht_N": 58.25504,
+        "Asukoht_E": 22.49605,
+        "__OBJECTID": 26
+    }
+}, {
+    "geometry": {
+        "x": 2535178,
+        "y": 8143624,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kaina Paastekomando",
+        "Paastepiirkond": "Hiiumaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Mae plats 3, Kaina alevik, 92101",
+        "Paastekomando_pealik": "Janno yksik",
+        "Pealiku_telefon": "4636255, 5238706",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2, 3 ja 4",
+        "Teenus_4": "Metsakustutus 2",
+        "Asukoht_N": 58.82949,
+        "Asukoht_E": 22.77389,
+        "__OBJECTID": 27,
+        "Teenus_5": "Päästetöö transport 2",
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2529121,
+        "y": 8179142,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Kardla Paastekomando",
+        "Paastepiirkond": "Hiiumaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Korgessaare mnt 47, Kardla , 92412 , Hiiumaa",
+        "Paastekomando_pealik": "Martin Kommus",
+        "Pealiku_telefon": "4622084, 56462189",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Naftareostuskorje",
+        "Teenus_4": "Veepaaste 2 ja 3",
+        "Asukoht_N": 58.99424,
+        "Asukoht_E": 22.71948,
+        "__OBJECTID": 28,
+        "Teenus_5": "Metsakustutus 3",
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2767529,
+        "y": 8274902,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Lasnamae Paastekomando",
+        "Paastepiirkond": "Ida-Harju",
+        "Koosseis": 27,
+        "Pidevalt_valves": 5,
+        "Aadress": "Osmussaare 2, Tallinn, 13811",
+        "Paastekomando_pealik": "Pavel Kulikov",
+        "Pealiku_telefon": "6287490, 53466206",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veetransport 2, 3 ja 4",
+        "Teenus_3": "Päästetöö toetus 2 (OLME, STAAP, TANKUR)",
+        "Teenus_4": "Metsakustutus 2 ja 4",
+        "Teenus_5": "Vahtkustutus 3",
+        "Asukoht_N": 59.43452,
+        "Asukoht_E": 24.86114,
+        "__OBJECTID": 29,
+        "Teenus_6": "Kõrgustest päästetöö 2",
+        "Teenus_7": "Päästetöö transport 3 ja 5"
+    }
+}, {
+    "geometry": {
+        "x": 2652443,
+        "y": 8110221,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Lihula Paastekomando",
+        "Paastepiirkond": "Pärnumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Piiri 10, Lihula, 90304",
+        "Paastekomando_pealik": "Mikk Luuk",
+        "Pealiku_telefon": "4778101, 5157566",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2 ja 3",
+        "Teenus_4": "Naftareostus 3",
+        "Asukoht_N": 58.67383,
+        "Asukoht_E": 23.8273,
+        "__OBJECTID": 30,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2751270,
+        "y": 8274361,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Lillekyla Paastekomando",
+        "Paastepiirkond": "Laane-Harju",
+        "Koosseis": 58,
+        "Pidevalt_valves": 10,
+        "Aadress": "Paldiski mnt 47, Tallinn, 10614",
+        "Paastekomando_pealik": "Ivo Remmelga",
+        "Pealiku_telefon": "6678200, 58662459",
+        "Teenus": "Baasteenus 2 meeskonda",
+        "Teenus_2": "Kõrgustest päästetöö 2",
+        "Teenus_3": "Varingupaaste 2",
+        "Teenus_4": "Keemiapaaste 2 ja 3",
+        "Teenus_5": "Päästetöö transport 5",
+        "Teenus_6": null,
+        "Asukoht_N": 59.43205,
+        "Asukoht_E": 24.71508,
+        "__OBJECTID": 31,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2861784,
+        "y": 8308546,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Loksa Paastekomando",
+        "Paastepiirkond": "Ida-Harju",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Kalurite 2A, Loksa, 74805",
+        "Paastekomando_pealik": "Mait Kroonstrom",
+        "Pealiku_telefon": "6031166, 5129082",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2, 3 ja 4",
+        "Asukoht_N": 59.58786,
+        "Asukoht_E": 25.70784,
+        "__OBJECTID": 32,
+        "Teenus_4": "Päästetöö transport 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2879372,
+        "y": 8016948,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Mustla Paastekomando",
+        "Paastepiirkond": "Viljandimaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Posti 52C, Mustla, 69701",
+        "Paastekomando_pealik": "Ruttar Ronimois",
+        "Pealiku_telefon": "4366101, 5220691",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2 ja 3",
+        "Asukoht_N": 58.23548,
+        "Asukoht_E": 25.86584,
+        "__OBJECTID": 33,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2999907,
+        "y": 8148009,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Mustvee Paastekomando",
+        "Paastepiirkond": "Jogevamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Narva 20, Mustvee, 49604",
+        "Paastekomando_pealik": "Taavi Muursepp",
+        "Pealiku_telefon": "7726201, 5261743",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 58.84987,
+        "Asukoht_E": 26.94862,
+        "__OBJECTID": 34,
+        "Teenus_3": "Metsakustutus 3",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2779326,
+        "y": 8285632,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Muuga Paastekomando",
+        "Paastepiirkond": "Ida-Harju",
+        "Koosseis": 27,
+        "Pidevalt_valves": 5,
+        "Aadress": "Veose 1, Maardu, 74115",
+        "Paastekomando_pealik": "Sergei Savin",
+        "Pealiku_telefon": "6319681, 53097430",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veetransport  3 ja4",
+        "Teenus_3": "Vahtkustutus 2 ja 4",
+        "Asukoht_N": 59.4835,
+        "Asukoht_E": 24.96711,
+        "__OBJECTID": 35,
+        "Teenus_4": "Veepässte 2, 3 ja 4",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2962737,
+        "y": 7886130,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Mõniste Paastekomando",
+        "Paastepiirkond": "Võrumaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Moniste depoo, Moniste k, Moniste v, 66002",
+        "Paastekomando_pealik": "Jean Tamm",
+        "Pealiku_telefon": "7891288, 53088272",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 57.61143,
+        "Asukoht_E": 26.61472,
+        "__OBJECTID": 36,
+        "Teenus_3": "Metsakustutus 3",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2719626,
+        "y": 8160492,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Marjamaa Paastekomando",
+        "Paastepiirkond": "Raplamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Parnu mnt 32, Marjamaa alev, 78301",
+        "Paastekomando_pealik": "Einar Klaos",
+        "Pealiku_telefon": "4821212, 53406471",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2, 3  ja 4",
+        "Asukoht_N": 58.90783,
+        "Asukoht_E": 24.43082,
+        "__OBJECTID": 37,
+        "Teenus_3": "Päästetöö toetus (STAAP)",
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3134829,
+        "y": 8262760,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Narva Paastekomando",
+        "Paastepiirkond": "Ida-Virumaa",
+        "Koosseis": 53,
+        "Pidevalt_valves": 10,
+        "Aadress": "Vahtra 3, Narva, 21003",
+        "Paastekomando_pealik": "Denis Duškin",
+        "Pealiku_telefon": "3576100, 5154714",
+        "Teenus": "Baasteenus 2 meeskonda",
+        "Teenus_2": "Kõrgustest päästetöö 2",
+        "Teenus_3": "Veepaaste 2 ja 3",
+        "Teenus_4": "Metsakustutus 2 ja 3",
+        "Teenus_5": "Päästetöö transport 3",
+        "Asukoht_N": 59.37901,
+        "Asukoht_E": 28.16065,
+        "__OBJECTID": 38,
+        "Teenus_6": "Vahtkustutus 3",
+        "Teenus_7": "Veetransport 4"
+    }
+}, {
+    "geometry": {
+        "x": 3121922,
+        "y": 8281161,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Narva-Joesuu Paastekomando",
+        "Paastepiirkond": "Ida-Virumaa",
+        "Koosseis": 19,
+        "Pidevalt_valves": 3,
+        "Aadress": "Koidu 3, Narva-Joesuu, 29023",
+        "Paastekomando_pealik": "Heino Berggren",
+        "Pealiku_telefon": "3577010, 53611598",
+        "Teenus": "Baasteenus",
+        "Asukoht_N": 59.4631,
+        "Asukoht_E": 28.0447,
+        "__OBJECTID": 39,
+        "Teenus_2": null,
+        "Teenus_3": null,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2747796,
+        "y": 8264601,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Nomme Paastekomando",
+        "Paastepiirkond": "Laane-Harju",
+        "Koosseis": 47,
+        "Pidevalt_valves": 8,
+        "Aadress": "Jaama 4, Tallinn, 11621",
+        "Paastekomando_pealik": "Marek Danilson",
+        "Pealiku_telefon": "5114062",
+        "Teenus": "Baasteenus 2 meeskonda",
+        "Teenus_2": "Veepaaste 2 ja 3",
+        "Teenus_3": "Metsakustutus 2",
+        "Asukoht_N": 59.38743,
+        "Asukoht_E": 24.68387,
+        "__OBJECTID": 40,
+        "Teenus_4": "Päästetöö transport 2",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2637910,
+        "y": 8228221,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Nova Paastekomando",
+        "Paastepiirkond": "Laanemaa",
+        "Koosseis": 11,
+        "Pidevalt_valves": 2,
+        "Aadress": "Pritsumaja, Nova k, Nova v, 91101",
+        "Paastekomando_pealik": "Janno Osa (KT)",
+        "Pealiku_telefon": "56632415",
+        "Teenus": "Tulekustutus",
+        "Teenus_2": null,
+        "Asukoht_N": 59.2206,
+        "Asukoht_E": 23.69675,
+        "__OBJECTID": 41,
+        "Teenus_3": null,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2569951,
+        "y": 8085751,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Orissaare Paastekomando",
+        "Paastepiirkond": "Saaremaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Kaluri 1, Orissaare alevik, 94601",
+        "Paastekomando_pealik": "Peeter Rumm",
+        "Pealiku_telefon": "4531269, 5182750",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2, 3 ja 4",
+        "Asukoht_N": 58.55936,
+        "Asukoht_E": 23.08626,
+        "__OBJECTID": 42,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2949582,
+        "y": 7979362,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Otepaa Paastekomando",
+        "Paastepiirkond": "Valgamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Lipuvaljak 22, Otepaa, 67403",
+        "Paastekomando_pealik": "Gehrt Kompus",
+        "Pealiku_telefon": "7661112, 5273760",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2 ja 3",
+        "Asukoht_N": 58.05729,
+        "Asukoht_E": 26.49655,
+        "__OBJECTID": 43,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2845562,
+        "y": 8155646,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Paide Paastekomando",
+        "Paastepiirkond": "Jarvamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Pollu 23, Paide, 72712",
+        "Paastekomando_pealik": "Ilmar Koppel",
+        "Pealiku_telefon": "3848817, 51986188",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2, 3 ja 4",
+        "Teenus_3": "Metsakustustus 2",
+        "Asukoht_N": 58.88534,
+        "Asukoht_E": 25.56212,
+        "__OBJECTID": 44,
+        "Teenus_4": "Päästetöö transport 2,4 ja 5",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2680155,
+        "y": 8257563,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Paldiski Paastekomando",
+        "Paastepiirkond": "Laane-Harju",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Sadama 39, Paldiski, 76806",
+        "Paastekomando_pealik": "Martti Eerma",
+        "Pealiku_telefon": "6741016, 53023004",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veepaaste 2, 3 ja 4",
+        "Asukoht_N": 59.35522,
+        "Asukoht_E": 24.07624,
+        "__OBJECTID": 45,
+        "Teenus_3": "Päästetöö transport 2",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2765301,
+        "y": 8282303,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Pirita Paastekomando",
+        "Paastepiirkond": "Ida-Harju",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Kloostrimetsa tee 22, Tallinn, 11911",
+        "Paastekomando_pealik": "Priit Jõgisoo",
+        "Pealiku_telefon": "6287490, 5263553",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veepaaste 2 ja 3",
+        "Teenus_3": "Metsakustutus 2",
+        "Asukoht_N": 59.46831,
+        "Asukoht_E": 24.84112,
+        "__OBJECTID": 46,
+        "Teenus_4": "Veetransport 3 ja 4",
+        "Teenus_5": "Päästetöö transport 2 ja 6",
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2891073,
+        "y": 8107966,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Poltsamaa Paastekomando",
+        "Paastepiirkond": "Jogevamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Pajusi mnt 37A, Poltsamaa, 48106",
+        "Paastekomando_pealik": "Peeter Randoja",
+        "Pealiku_telefon": "7769781, 5151112",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 58.6633,
+        "Asukoht_E": 25.97095,
+        "__OBJECTID": 47,
+        "Teenus_3": "Metsakustustus 3",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3016350,
+        "y": 7980850,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Polva Paastekomando",
+        "Paastepiirkond": "Polvamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Lao 17, Polva, 63308",
+        "Paastekomando_pealik": "August Pakk",
+        "Pealiku_telefon": "7998606, 5121781",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2",
+        "Teenus_4": "Metsakustutus 2 ja 3",
+        "Teenus_5": "Päästetöö transport 2",
+        "Asukoht_N": 58.06436,
+        "Asukoht_E": 27.09633,
+        "__OBJECTID": 48,
+        "Teenus_6": "Vahtkustutus 3",
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2728286,
+        "y": 8049015,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Parnu Paastekomando",
+        "Paastepiirkond": "Parnumaa",
+        "Koosseis": 48,
+        "Pidevalt_valves": 10,
+        "Aadress": "Pikk 20A, Parnu, 80010",
+        "Paastekomando_pealik": "Jaanus Saar",
+        "Pealiku_telefon": "4447838, 5011558",
+        "Teenus": "Baasteenus 2 meeskonda",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Kõrgustest pääste 2",
+        "Teenus_4": "Keemiapääste 2",
+        "Teenus_5": "Veepaaste 2, 3 ja 4",
+        "Teenus_6": "Metsakustutus 2",
+        "Teenus_7": "Vahtkustutus 3; Päästetöö transport 3",
+        "Asukoht_N": 58.3868,
+        "Asukoht_E": 24.50861,
+        "__OBJECTID": 49
+    }
+}, {
+    "geometry": {
+        "x": 2727782,
+        "y": 8096496,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Parnu-Jaagupi Paastekomando",
+        "Paastepiirkond": "Parnumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Soo 2, Parnu-Jaagupi alev, 87201",
+        "Paastekomando_pealik": "Raul Toome",
+        "Pealiku_telefon": "4459724, 53846732",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2 ja 4",
+        "Teenus_3": "Veepaaste 2",
+        "Teenus_4": "Metsakustutus 4",
+        "Asukoht_N": 58.60967,
+        "Asukoht_E": 24.50408,
+        "__OBJECTID": 50,
+        "Teenus_5": "Päästetöö toetus (OLME)",
+        "Teenus_6": "Päästetöö transport 5",
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2932870,
+        "y": 8256360,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Rakvere Paastekomando",
+        "Paastepiirkond": "Laane-Virumaa",
+        "Koosseis": 32,
+        "Pidevalt_valves": 6,
+        "Aadress": "FR. R. Kreutzwaldi 5A, Rakvere, 44314",
+        "Paastekomando_pealik": "Mati Väljaots",
+        "Pealiku_telefon": "3222710, 5182354",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veetransport 2, 3 ja 4",
+        "Teenus_3": "Kõrgustest päästetöö 2",
+        "Teenus_4": "Päästetöö toetus 2 (STAAP, TANKUR)",
+        "Teenus_5": "Veepaaste 2",
+        "Teenus_6": "Metsakustutus 2 ja 4",
+        "Asukoht_N": 59.34971,
+        "Asukoht_E": 26.34642,
+        "__OBJECTID": 51,
+        "Teenus_7": "Päästetöö transport 2, 3, 4 ja 5"
+    }
+}, {
+    "geometry": {
+        "x": 2758904,
+        "y": 8181686,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Rapla Paastekomando",
+        "Paastepiirkond": "Raplamaa",
+        "Koosseis": 26,
+        "Pidevalt_valves": 4,
+        "Aadress": "Kevade 10, Sulupere k, Rapla v, 79529",
+        "Paastekomando_pealik": "Tauno Sau",
+        "Pealiku_telefon": "4892002, 59191010",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2, 3 ja 4",
+        "Teenus_3": "Kõrgustest pääste 2",
+        "Teenus_4": "Metsakustutus 2",
+        "Asukoht_N": 59.00601,
+        "Asukoht_E": 24.78366,
+        "__OBJECTID": 52,
+        "Teenus_5": "Päästetöö toetus (STAAP ja TANKURHAAGIS)",
+        "Teenus_6": "Päästetöö transport 2 ja 5",
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2678969,
+        "y": 8180218,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Risti Paastekomando",
+        "Paastepiirkond": "Laanemaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Tallinna mnt 15 B, Risti alevik, 90901",
+        "Paastekomando_pealik": "Marko Sultsing",
+        "Pealiku_telefon": "4761292, 5170856",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2",
+        "Teenus_4": "Metsakustutus 2",
+        "Asukoht_N": 58.99922,
+        "Asukoht_E": 24.06559,
+        "__OBJECTID": 53,
+        "Teenus_5": "Transpordi teenus 5",
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2587783,
+        "y": 7925011,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Ruhnu Paastekomando",
+        "Paastepiirkond": "Saaremaa",
+        "Koosseis": 1,
+        "Pidevalt_valves": 1,
+        "Aadress": "Ruhnu k, Ruhnu v, 93001",
+        "Paastekomando_pealik": "Heiki Kukk - paastja",
+        "Pealiku_telefon": "53009510",
+        "Teenus": "Tulekustutus",
+        "Asukoht_N": 57.79804,
+        "Asukoht_E": 23.24645,
+        "__OBJECTID": 54,
+        "Teenus_2": "Veetransport 2",
+        "Teenus_3": "Metsakustustus 3",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3056567,
+        "y": 7987911,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Rapina Paastekomando",
+        "Paastepiirkond": "Polvamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Rahu 1 C, Rapina, 64505",
+        "Paastekomando_pealik": "Kuldar Kase",
+        "Pealiku_telefon": "7962897, 5112890",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2",
+        "Asukoht_N": 58.0979,
+        "Asukoht_E": 27.45761,
+        "__OBJECTID": 55,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3088713,
+        "y": 8267388,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Sillamae Paastekomando",
+        "Paastepiirkond": "Ida-Virumaa",
+        "Koosseis": 32,
+        "Pidevalt_valves": 6,
+        "Aadress": "Kesk 1A, Sillamae, 40231",
+        "Paastekomando_pealik": "Sergei Petrov",
+        "Pealiku_telefon": "3277050, 53059675",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Veetransport 2",
+        "Teenus_3": "Keemiapaaste 2",
+        "Teenus_4": "Veepaaste 2, 3 ja 4",
+        "Asukoht_N": 59.40018,
+        "Asukoht_E": 27.74638,
+        "__OBJECTID": 56,
+        "Teenus_5": "Metsakustutus 2",
+        "Teenus_6": "Päästetöö transport 2",
+        "Teenus_7": "Vahtkustutus 3"
+    }
+}, {
+    "geometry": {
+        "x": 2834651,
+        "y": 8079134,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Suure-Jaani Paastekomando",
+        "Paastepiirkond": "Viljandimaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Oja  2 B,  Suure-Jaani, 71503",
+        "Paastekomando_pealik": "Rauno Ruut",
+        "Pealiku_telefon": "4372112, 53012632",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2",
+        "Asukoht_N": 58.52834,
+        "Asukoht_E": 25.4641,
+        "__OBJECTID": 57,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2960895,
+        "y": 8083199,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Tabivere Paastekomando",
+        "Paastepiirkond": "Tartumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Same tee 1, Tabivere alevik, 49101",
+        "Paastekomando_pealik": "Imre Toekalju",
+        "Pealiku_telefon": "7736601, 5279668",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2 ja 3",
+        "Asukoht_N": 58.5474,
+        "Asukoht_E": 26.59817,
+        "__OBJECTID": 58,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": "vahtkustutus 3",
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2890212,
+        "y": 8236916,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Tapa Paastekomando",
+        "Paastepiirkond": "Laane-Virumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Pikk 18A, Tapa,  45106",
+        "Paastekomando_pealik": "Aron Jaanis",
+        "Pealiku_telefon": "3271100, 55677067",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2",
+        "Asukoht_N": 59.26055,
+        "Asukoht_E": 25.96322,
+        "__OBJECTID": 59,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2975627,
+        "y": 8046348,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Tartu Paastekomando",
+        "Paastepiirkond": "Tartumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Kalevi 20 A, Tartu,  51010",
+        "Paastekomando_pealik": "Igor Galjutin",
+        "Pealiku_telefon": "7343099, 53303446",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Päästetöö transport 2 ja 6",
+        "Teenus_3": "Naftareostuskorje 3",
+        "Teenus_4": "Veepaaste 2",
+        "Teenus_5": "Vahtkustustus 3",
+        "Asukoht_N": 58.37424,
+        "Asukoht_E": 26.73051,
+        "__OBJECTID": 60,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2885761,
+        "y": 7967647,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Torva Paastekomando",
+        "Paastepiirkond": "Valgamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Metsa 1A, Torva, 68605",
+        "Paastekomando_pealik": "Alor Kasepold",
+        "Pealiku_telefon": "7632155, 5170447",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2 ja 3",
+        "Asukoht_N": 58.00157,
+        "Asukoht_E": 25.92323,
+        "__OBJECTID": 61,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2671063,
+        "y": 8037995,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Tostamaa Paastekomando",
+        "Paastepiirkond": "Parnumaa",
+        "Koosseis": 11,
+        "Pidevalt_valves": 2,
+        "Aadress": "Parnu mnt 2 A,Tostamaa alevik,  88101",
+        "Paastekomando_pealik": "Mait Janson",
+        "Pealiku_telefon": "4496132, 53482101",
+        "Teenus": "Tulekustutus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 4",
+        "Asukoht_N": 58.33487,
+        "Asukoht_E": 23.99457,
+        "__OBJECTID": 62,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2830919,
+        "y": 8139264,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Tyri Paastekomando",
+        "Paastepiirkond": "Jarvamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Ferdinand Johann Wiedemanni 2, Tyri, 72210",
+        "Paastekomando_pealik": "Eilo Eesmae",
+        "Pealiku_telefon": "3851222, 5083899",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2, 3 ja 4",
+        "Teenus_3": "Veepaaste 2",
+        "Asukoht_N": 58.80921,
+        "Asukoht_E": 25.43058,
+        "__OBJECTID": 63,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2901005,
+        "y": 7922225,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Valga Paastekomando",
+        "Paastepiirkond": "Valgamaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Karja 16, Valga, 68207",
+        "Paastekomando_pealik": "Raivo Pavlovitsh",
+        "Pealiku_telefon": "7669720, 53408612",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2, 3 ja 4",
+        "Teenus_3": "Veepaaste 2",
+        "Asukoht_N": 57.7847,
+        "Asukoht_E": 26.06017,
+        "__OBJECTID": 64,
+        "Teenus_4": "Metsakustutus 3",
+        "Teenus_5": "Päästetöö transport 3",
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3035676.8666055338,
+        "y": 7910991.617202363,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Vastseliina Paastekomando",
+        "Paastepiirkond": "Vorumaa",
+        "Koosseis": 17,
+        "Pidevalt_valves": 3,
+        "Aadress": "Pätisilla tee 6, Vastseliina alevik, 65201",
+        "Paastekomando_pealik": "Aivar Lai",
+        "Pealiku_telefon": "7851001, 5242920",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": null,
+        "Asukoht_N": 57.73391,
+        "Asukoht_E": 27.270011,
+        "__OBJECTID": 65,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2847795,
+        "y": 8043582,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Viljandi Paastekomando",
+        "Paastepiirkond": "Viljandimaa",
+        "Koosseis": 28,
+        "Pidevalt_valves": 5,
+        "Aadress": "Riia mnt 6, Viljandi, 71020",
+        "Paastekomando_pealik": "Mait Murk",
+        "Pealiku_telefon": "4354522, 5233137",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Veepaaste 2 ja 3",
+        "Teenus_4": "Metsakustutus 2 ja 3",
+        "Asukoht_N": 58.36121,
+        "Asukoht_E": 25.58218,
+        "__OBJECTID": 66,
+        "Teenus_5": "Päästetöö transport 3",
+        "Teenus_6": "Kõrgustest päästetöö 2",
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2587821.3753104373,
+        "y": 8178138.143449611,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Vormsi Paastekomando",
+        "Paastepiirkond": "Laanemaa",
+        "Koosseis": 4,
+        "Pidevalt_valves": 1,
+        "Aadress": "Hullo, Vormsi v, 91301",
+        "Paastekomando_pealik": "Kaido Valm",
+        "Teenus": "Tulekustutus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 58.98915,
+        "Asukoht_E": 23.24618,
+        "__OBJECTID": 67,
+        "Pealiku_telefon": "53001306",
+        "Teenus_3": "Metsakustustus 3",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3008128,
+        "y": 7934695,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Võru Paastekomando",
+        "Paastepiirkond": "Võrumaa",
+        "Koosseis": 27,
+        "Pidevalt_valves": 5,
+        "Aadress": "Rapina mnt 20 A, Voru, 65606",
+        "Paastekomando_pealik": "Erki Land",
+        "Pealiku_telefon": "7827121, 5231817",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Teenus_3": "Metsakustustus 3",
+        "Teenus_4": "Veepaaste 2 ja 3",
+        "Asukoht_N": 57.84437,
+        "Asukoht_E": 27.02247,
+        "__OBJECTID": 68,
+        "Teenus_5": "Kõrgustest pääste 2",
+        "Teenus_6": "Päästetöö transport 3",
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2920585,
+        "y": 8204922,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Vaike-Maarja Paastekomando",
+        "Paastepiirkond": "Laane-Virumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Ebavere, Vaike-Maarja alevik, 46209",
+        "Paastekomando_pealik": "Mati Koiv",
+        "Pealiku_telefon": "3261801, 5201321",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 59.11333,
+        "Asukoht_E": 26.23606,
+        "__OBJECTID": 69,
+        "Teenus_3": "Päästetöö transport 2",
+        "Teenus_4": "Metsakustutus 2",
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 2783046.838344719,
+        "y": 8105795.788141113,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Vandra Paastekomando",
+        "Paastepiirkond": "Parnumaa",
+        "Koosseis": 22,
+        "Pidevalt_valves": 4,
+        "Aadress": "Allikõnnu küla, Põhja-Pärnumaa vald,  87604",
+        "Paastekomando_pealik": "Rein Kontus",
+        "Pealiku_telefon": "4464554, 53000122",
+        "Teenus": "Baasteenus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 58.653248,
+        "Asukoht_E": 25.000206,
+        "__OBJECTID": 70,
+        "Teenus_3": null,
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}, {
+    "geometry": {
+        "x": 3076098,
+        "y": 7958838,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "attributes": {
+        "Paastekomando_nimetus": "Värska Paastekomando",
+        "Paastepiirkond": "Võrumaa",
+        "Koosseis": 11,
+        "Pidevalt_valves": 2,
+        "Aadress": "Jarvesuu 11, Varska alevik, 64001",
+        "Paastekomando_pealik": "Raivo Kunst",
+        "Pealiku_telefon": "7964747, 5290218",
+        "Teenus": "Tulekustutus",
+        "Teenus_2": "Vee transport 2",
+        "Asukoht_N": 57.95961,
+        "Asukoht_E": 27.63306,
+        "__OBJECTID": 71,
+        "Teenus_3": "Metsakustutus 3",
+        "Teenus_4": null,
+        "Teenus_5": null,
+        "Teenus_6": null,
+        "Teenus_7": null
+    }
+}]
